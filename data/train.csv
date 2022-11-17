@@ -1,0 +1,1001 @@
+Months_loan_taken_for,Purpose,EMI_rate_in_percentage_of_disposable_income,Property,Has_coapplicant,Has_guarantor,Number_of_existing_loans_at_this_bank,Loan_history,high_risk_applicant,Primary_applicant_age_in_years,Gender,Marital_status,Housing,Years_at_current_residence,Employment_status,Foreign_worker,Savings_account_balance,other_emi,employed_range,Principal_loan_amount_log
+6,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,67,1,single,1,4,skilled employee / official,1,None,0,7 years and up,13.971659240454205
+48,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,1,22,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.59906983062699
+12,education,2,real estate,0,0,1,critical/pending loans at other banks,0,49,1,single,1,3,unskilled - resident,1,Low,0,4 years - 7 years,14.55554132442307
+42,FF&E,2,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,45,1,single,0,4,skilled employee / official,1,Low,0,4 years - 7 years,15.880092236737086
+24,new vehicle,3,No Property,0,0,2,delay in paying off loans in the past,1,53,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,15.398604495058771
+36,education,2,No Property,0,0,1,existing loans paid back duly till now,0,35,1,single,0,4,unskilled - resident,1,None,0,1 year - 4 years,16.018827649299652
+24,FF&E,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,53,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.85755249514399
+36,used vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,35,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.753964406343131
+12,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,61,1,divorced/separated/married,1,4,unskilled - resident,1,High,0,4 years - 7 years,14.93359862313304
+30,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,1,28,1,married/widowed,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.470686362072229
+12,new vehicle,3,car or other,0,0,1,existing loans paid back duly till now,1,25,0,divorced/separated/married,0,1,skilled employee / official,1,Low,0,0 year - 1 year,14.074021253115776
+48,business,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,15.275984317258416
+12,electronic equipment,1,car or other,0,0,1,existing loans paid back duly till now,0,22,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.26467352133816
+24,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,1,60,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,13.996998434009653
+15,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.1541233590846
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,32,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.063931916462751
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,53,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.700929626171344
+30,business,2,car or other,0,0,3,paid,0,25,1,single,1,3,skilled employee / official,1,None,1,0 year - 1 year,15.903911841015582
+24,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,44,0,divorced/separated/married,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,16.34753931482101
+24,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,31,1,single,1,2,skilled employee / official,1,High,0,7 years and up,15.048070819142122
+9,new vehicle,4,car or other,0,0,3,critical/pending loans at other banks,0,48,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.573508710843836
+6,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,44,1,single,0,3,skilled employee / official,1,High,0,1 year - 4 years,14.788937481209238
+10,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,48,1,single,0,3,unskilled - resident,0,Low,0,0 year - 1 year,14.622432752783064
+12,used vehicle,3,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,44,1,single,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.405516979604704
+10,FF&E,2,car or other,0,0,2,critical/pending loans at other banks,0,26,1,married/widowed,1,1,skilled employee / official,0,None,0,1 year - 4 years,14.54257595672768
+6,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,36,1,single,1,2,unskilled - resident,1,Low,1,1 year - 4 years,14.133236751764432
+6,electronic equipment,4,car or other,0,0,1,paid,0,39,1,married/widowed,1,4,unskilled - resident,1,Low,0,7 years and up,12.962194625251508
+12,electronic equipment,3,real estate,0,0,2,paid,0,42,0,divorced/separated/married,0,3,skilled employee / official,1,High,0,1 year - 4 years,12.921470435024938
+7,electronic equipment,3,real estate,0,1,1,existing loans paid back duly till now,0,34,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.69720984506881
+60,business,3,No Property,0,0,2,delay in paying off loans in the past,1,63,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,15.73771332321762
+18,business,3,real estate,0,0,1,existing loans paid back duly till now,0,36,1,married/widowed,1,3,skilled employee / official,1,High,1,0 year - 1 year,14.46418324842239
+24,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,27,1,single,1,2,skilled employee / official,1,Low,1,1 year - 4 years,15.206792460595205
+18,new vehicle,2,car or other,0,0,2,existing loans paid back duly till now,0,30,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.584683528519534
+12,business,4,No Property,0,0,1,critical/pending loans at other banks,0,57,1,single,0,4,unskilled - resident,1,None,0,7 years and up,14.04979185368894
+12,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,33,0,divorced/separated/married,1,1,management / self-employed / highly qualified employee / officer,1,Low,1,0 year - 1 year,14.20349035173142
+45,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,25,1,single,1,2,unskilled - resident,1,Low,0,0 year - 1 year,15.372812715977846
+48,education,1,No Property,0,0,1,critical/pending loans at other banks,0,31,1,single,0,3,skilled employee / official,1,Low,1,1 year - 4 years,15.625437331147776
+18,electronic equipment,4,real estate,1,0,1,existing loans paid back duly till now,1,37,1,single,1,2,skilled employee / official,1,Low,1,1 year - 4 years,14.557447902693651
+10,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,37,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.018451401960965
+9,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,24,1,single,1,3,skilled employee / official,1,Low,0,1 year - 4 years,13.03462446309632
+30,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,30,1,single,1,2,management / self-employed / highly qualified employee / officer,1,High,1,7 years and up,14.662665551003569
+12,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,26,1,divorced/separated/married,1,1,skilled employee / official,1,High,0,1 year - 4 years,13.962204937115075
+18,FF&E,2,real estate,0,0,1,delay in paying off loans in the past,0,44,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,15.640704803278568
+30,used vehicle,1,car or other,0,0,2,critical/pending loans at other banks,0,24,1,married/widowed,0,4,skilled employee / official,1,Low,0,4 years - 7 years,15.637960874513126
+48,used vehicle,4,No Property,0,0,2,critical/pending loans at other banks,1,58,0,divorced/separated/married,0,4,unskilled - resident,1,Low,1,7 years and up,15.630823780146065
+11,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,35,0,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.146970252761944
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,39,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.647984803745318
+6,used vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,2,unemployed / unskilled - non-resident,1,High,0,None,14.117095535585046
+11,new vehicle,1,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,39,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,15.793472930694255
+12,electronic equipment,4,real estate,1,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.544507391417916
+24,FF&E,4,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,0,29,1,single,1,2,unskilled - resident,1,None,1,0 year - 1 year,14.662665551003569
+27,used vehicle,1,car or other,0,0,2,delay in paying off loans in the past,0,30,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.601419613514151
+12,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,25,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.048208322083296
+18,used vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,31,1,single,1,1,skilled employee / official,1,None,0,1 year - 4 years,15.032794376349882
+36,new vehicle,4,No Property,0,0,2,delay in paying off loans in the past,1,57,1,single,0,4,skilled employee / official,1,Low,1,7 years and up,14.615267473582476
+6,new vehicle,1,real estate,0,1,1,paid,0,26,1,single,1,2,unskilled - resident,1,None,1,1 year - 4 years,13.57088797497294
+12,electronic equipment,2,No Property,0,0,1,existing loans paid back duly till now,1,52,1,single,1,1,management / self-employed / highly qualified employee / officer,1,None,0,None,15.682377499679134
+36,electronic equipment,2,car or other,0,0,2,critical/pending loans at other banks,0,31,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,1 year - 4 years,16.07372570322238
+18,new vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.488965105178483
+36,FF&E,4,No Property,1,0,2,critical/pending loans at other banks,1,23,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,0 year - 1 year,15.644726364236282
+9,business,2,real estate,0,0,1,existing loans paid back duly till now,0,27,1,married/widowed,1,1,skilled employee / official,1,Low,1,1 year - 4 years,14.14553347090558
+15,electronic equipment,4,real estate,0,1,2,critical/pending loans at other banks,0,50,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.245343022520732
+36,business,4,No Property,0,0,1,paid,1,61,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.484877209858816
+48,business,2,car or other,0,0,1,paid,1,25,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,16.48419603554421
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.97270617073128
+27,FF&E,4,building society savings agreement/life insurance,0,0,4,existing loans paid back duly till now,0,48,1,single,1,4,skilled employee / official,1,None,0,7 years and up,15.462244255142071
+12,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,29,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,0 year - 1 year,14.59069844886043
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,22,1,married/widowed,1,1,skilled employee / official,1,High,0,1 year - 4 years,13.8224861717007
+36,education,4,No Property,0,0,1,existing loans paid back duly till now,1,37,1,single,0,4,skilled employee / official,1,Low,1,1 year - 4 years,14.41379745750026
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,1,4,skilled employee / official,1,None,0,1 year - 4 years,14.688476165100056
+36,used vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,30,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,1 year - 4 years,15.911440417148912
+7,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,46,1,single,0,2,unskilled - resident,1,None,0,7 years and up,13.500799813124576
+8,None,3,No Property,0,0,2,critical/pending loans at other banks,0,51,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,13.96737290727352
+42,business,2,real estate,0,0,2,critical/pending loans at other banks,0,41,0,divorced/separated/married,1,1,unskilled - resident,1,Low,1,4 years - 7 years,15.59957382055786
+36,education,4,No Property,0,0,1,existing loans paid back duly till now,1,40,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,14.497091102152751
+12,used vehicle,4,No Property,0,0,2,critical/pending loans at other banks,0,66,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.23816049082654
+42,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,34,1,single,1,3,skilled employee / official,1,Low,0,0 year - 1 year,15.193016413051083
+11,electronic equipment,2,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,0,51,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,15.378066484498245
+54,used vehicle,2,building society savings agreement/life insurance,0,0,1,paid,0,39,1,single,1,2,unskilled - resident,1,None,0,1 year - 4 years,16.060042719509703
+30,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,22,1,married/widowed,1,1,skilled employee / official,1,Low,0,0 year - 1 year,15.158897418072888
+24,electronic equipment,1,car or other,0,0,2,existing loans paid back duly till now,1,44,0,divorced/separated/married,1,1,skilled employee / official,1,None,0,0 year - 1 year,15.597724614348795
+15,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,47,1,single,1,3,skilled employee / official,1,High,1,7 years and up,14.008607187926188
+18,business,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,1 year - 4 years,14.26531147989249
+24,None,4,real estate,0,1,1,existing loans paid back duly till now,0,58,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,7 years and up,14.377979414882104
+10,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,52,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,14.654920245502472
+12,business,4,real estate,0,1,2,critical/pending loans at other banks,0,29,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,14.160517697035324
+18,FF&E,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.074021253115776
+36,education,1,No Property,0,0,1,existing loans paid back duly till now,1,47,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,16.35015929964709
+18,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,30,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,14.625996230941452
+12,FF&E,4,real estate,0,0,2,paid,1,28,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,13.918067146289369
+12,electronic equipment,4,real estate,0,0,1,critical/pending loans at other banks,0,56,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,13.334243736439827
+12,used vehicle,4,real estate,0,0,1,critical/pending loans at other banks,0,54,1,single,1,3,skilled employee / official,1,Low,0,7 years and up,14.158390790880818
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,1,33,0,divorced/separated/married,1,3,unskilled - resident,1,None,1,7 years and up,13.588609957772352
+24,FF&E,4,No Property,1,0,2,critical/pending loans at other banks,0,20,1,single,0,4,skilled employee / official,1,None,0,7 years and up,15.101155510934236
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,54,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.09162599404459
+54,business,3,No Property,0,0,1,paid,1,58,1,single,0,4,skilled employee / official,1,Low,0,0 year - 1 year,16.584655858426295
+12,education,4,car or other,0,0,1,critical/pending loans at other banks,0,61,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,4 years - 7 years,14.514639810201768
+18,business,4,car or other,0,0,1,existing loans paid back duly till now,0,34,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.779447943305785
+36,electronic equipment,4,real estate,0,0,1,critical/pending loans at other banks,0,36,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.664378613520997
+20,used vehicle,3,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,None,1,4 years - 7 years,15.769530589982969
+24,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,41,1,married/widowed,0,4,unskilled - resident,1,Low,0,7 years and up,14.200092455156014
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,24,1,single,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.658370011752549
+6,electronic equipment,3,real estate,0,0,1,delay in paying off loans in the past,0,24,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.745088093667729
+9,FF&E,4,car or other,0,0,1,critical/pending loans at other banks,0,35,1,single,0,3,skilled employee / official,1,Low,0,4 years - 7 years,14.467314774989838
+12,used vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,26,1,married/widowed,0,4,skilled employee / official,1,None,0,0 year - 1 year,14.709555680891109
+24,None,2,car or other,1,0,2,critical/pending loans at other banks,1,39,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,16.295237147710733
+18,new vehicle,2,No Property,0,0,2,paid,1,39,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,15.680830230300357
+12,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,32,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.620186252458875
+24,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,30,0,divorced/separated/married,1,2,skilled employee / official,0,None,0,0 year - 1 year,15.859454447290952
+14,business,1,real estate,0,0,1,existing loans paid back duly till now,0,35,1,married/widowed,1,2,skilled employee / official,1,High,0,7 years and up,14.15910026235435
+6,business,1,car or other,0,0,2,delay in paying off loans in the past,0,31,1,divorced/separated/married,1,2,skilled employee / official,1,Low,1,7 years and up,14.18638422130282
+15,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,12.8790171187726
+18,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,0,28,1,single,0,3,unskilled - resident,1,Low,0,4 years - 7 years,15.64969074307628
+36,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,1,25,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,1 year - 4 years,15.87666082967186
+12,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,35,1,married/widowed,1,1,skilled employee / official,1,High,0,7 years and up,14.334304351379442
+48,electronic equipment,4,real estate,0,0,1,critical/pending loans at other banks,0,47,1,single,1,1,skilled employee / official,1,None,0,7 years and up,15.090314543050802
+42,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,30,0,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,None,0,4 years - 7 years,15.785973937074363
+10,FF&E,2,real estate,1,0,2,critical/pending loans at other banks,0,27,0,divorced/separated/married,0,3,skilled employee / official,0,None,0,0 year - 1 year,14.572571064267873
+33,FF&E,1,car or other,0,0,2,critical/pending loans at other banks,1,23,0,divorced/separated/married,1,4,skilled employee / official,1,High,0,1 year - 4 years,15.269697185127082
+12,new vehicle,3,car or other,0,0,1,critical/pending loans at other banks,0,36,1,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,High,0,4 years - 7 years,14.676711323520468
+21,electronic equipment,3,real estate,0,0,2,existing loans paid back duly till now,1,25,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.422555039470808
+24,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,41,0,divorced/separated/married,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.168248135555322
+12,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,24,1,single,0,2,unskilled - resident,1,Low,0,1 year - 4 years,14.385359522179726
+10,new vehicle,4,No Property,0,0,2,critical/pending loans at other banks,0,63,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,13.568330428821824
+18,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,1,27,0,divorced/separated/married,0,3,skilled employee / official,1,None,0,0 year - 1 year,14.46991691020779
+12,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,30,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.56739823354682
+12,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,40,1,married/widowed,1,2,unskilled - resident,1,Low,0,1 year - 4 years,13.460263166016729
+12,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,30,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.367659733359671
+12,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,34,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.436087045689384
+12,new vehicle,3,real estate,1,0,2,critical/pending loans at other banks,1,29,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.067987771349824
+48,new vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,4 years - 7 years,15.954046138951814
+36,education,4,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,1,29,1,single,1,3,skilled employee / official,1,Low,1,1 year - 4 years,15.745146134526836
+15,FF&E,2,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,27,1,single,1,3,unskilled - resident,1,Low,1,0 year - 1 year,14.811720913014303
+18,FF&E,4,No Property,0,0,2,existing loans paid back duly till now,0,47,1,single,0,4,skilled employee / official,1,Low,1,1 year - 4 years,14.500625566826956
+60,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,21,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,4 years - 7 years,16.132392955659146
+12,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,38,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,7 years and up,14.03062193758122
+27,used vehicle,2,car or other,0,0,2,delay in paying off loans in the past,0,27,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,15.968783247771311
+12,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,1,66,1,single,1,3,unskilled - resident,1,High,0,1 year - 4 years,13.548937448722729
+15,electronic equipment,4,real estate,0,1,3,critical/pending loans at other banks,0,35,1,single,1,2,skilled employee / official,1,None,1,4 years - 7 years,14.819079297945487
+12,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,44,0,divorced/separated/married,0,2,unskilled - resident,1,Low,0,1 year - 4 years,14.447314108283168
+6,new vehicle,2,real estate,0,0,1,existing loans paid back duly till now,0,27,1,married/widowed,1,2,unemployed / unskilled - non-resident,0,High,0,0 year - 1 year,13.471610805514263
+36,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,0,30,0,divorced/separated/married,1,1,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,15.383084266299676
+27,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,27,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.043980833890595
+18,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,1,22,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.716484585726535
+21,FF&E,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,23,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.643188631481824
+48,business,4,car or other,0,0,1,paid,0,30,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.086955077405223
+6,new vehicle,1,No Property,0,0,2,critical/pending loans at other banks,0,39,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,13.664687668229693
+12,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,51,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,4 years - 7 years,13.432784936825598
+36,FF&E,3,building society savings agreement/life insurance,0,1,2,critical/pending loans at other banks,0,28,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.496524668887597
+18,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,46,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.274200427309736
+6,electronic equipment,2,No Property,0,0,1,existing loans paid back duly till now,0,42,1,single,0,4,skilled employee / official,1,Low,1,7 years and up,14.112647789186813
+10,electronic equipment,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,38,1,single,1,4,skilled employee / official,0,Low,0,1 year - 4 years,14.46991691020779
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,24,1,single,1,1,skilled employee / official,1,Low,0,1 year - 4 years,15.581610280411752
+24,used vehicle,2,No Property,0,0,1,critical/pending loans at other banks,0,29,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,7 years and up,15.864235126982049
+24,business,4,car or other,0,0,1,delay in paying off loans in the past,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.756695274012255
+12,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,1,20,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.063931916462751
+9,FF&E,3,real estate,0,1,2,critical/pending loans at other banks,0,48,1,single,1,4,skilled employee / official,0,Low,0,7 years and up,14.068601185646436
+12,education,4,car or other,0,0,1,paid,0,45,1,married/widowed,1,1,unskilled - resident,1,Low,1,7 years and up,12.733755386362589
+24,new vehicle,2,car or other,0,0,2,existing loans paid back duly till now,0,38,1,single,1,3,skilled employee / official,1,Low,1,4 years - 7 years,15.071696233737145
+6,electronic equipment,1,real estate,0,0,2,critical/pending loans at other banks,0,34,1,single,1,2,unskilled - resident,1,None,0,1 year - 4 years,14.45631125815201
+24,electronic equipment,3,real estate,0,0,1,critical/pending loans at other banks,0,36,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.870519209150252
+18,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,30,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,13.869051324892304
+15,FF&E,4,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,36,1,single,1,3,skilled employee / official,1,High,0,4 years - 7 years,14.048208322083296
+10,new vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,70,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,None,15.804480196480034
+36,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,36,1,single,1,4,skilled employee / official,1,High,0,7 years and up,13.720100373159616
+6,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,0,32,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.906762492226092
+18,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,33,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,None,13.938612755098257
+11,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,20,0,divorced/separated/married,1,1,skilled employee / official,1,High,0,0 year - 1 year,14.271034865945175
+24,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,4 years - 7 years,15.1947803041472
+24,business,4,real estate,0,0,2,critical/pending loans at other banks,1,31,1,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,14.475617884446018
+15,new vehicle,4,car or other,0,0,2,paid,1,33,1,single,0,3,skilled employee / official,1,Low,0,7 years and up,13.764217263576723
+12,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,13.545013310266594
+24,FF&E,3,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,1,34,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.540156405583591
+8,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,33,1,single,1,2,skilled employee / official,0,Low,0,1 year - 4 years,14.161933125438654
+21,education,2,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,1,26,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,15.043395182336525
+30,used vehicle,4,real estate,0,0,1,paid,1,53,0,divorced/separated/married,1,1,management / self-employed / highly qualified employee / officer,1,None,1,None,15.828411575835863
+12,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,42,1,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.762136489634502
+6,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,52,1,single,1,4,skilled employee / official,1,High,0,7 years and up,12.730801174465157
+12,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,0,31,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,14.489984473258598
+21,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,65,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,13.255144488638146
+36,business,1,car or other,0,0,2,delay in paying off loans in the past,1,28,1,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,16.0743527280104
+36,business,2,real estate,0,0,2,delay in paying off loans in the past,1,30,1,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,1,1 year - 4 years,15.309537618887047
+21,new vehicle,4,building society savings agreement/life insurance,0,0,2,paid,1,40,1,single,1,2,unskilled - resident,1,None,0,1 year - 4 years,14.314466009159778
+24,FF&E,4,real estate,0,0,1,critical/pending loans at other banks,0,50,1,single,1,4,skilled employee / official,1,High,0,1 year - 4 years,15.144440601694594
+18,new vehicle,4,car or other,0,0,1,critical/pending loans at other banks,1,36,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,13.69221234161978
+15,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,31,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.122995257712237
+9,used vehicle,2,No Property,0,0,1,paid,1,74,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,15.450421266371404
+16,new vehicle,2,car or other,0,0,3,critical/pending loans at other banks,0,68,1,single,0,3,unemployed / unskilled - non-resident,1,Low,0,None,13.976778705560395
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,20,1,married/widowed,1,1,skilled employee / official,1,Low,0,4 years - 7 years,13.420985389894444
+18,FF&E,1,car or other,0,0,2,paid,0,33,0,divorced/separated/married,1,4,skilled employee / official,1,Low,1,1 year - 4 years,14.99231769421744
+24,business,2,building society savings agreement/life insurance,0,0,3,existing loans paid back duly till now,1,54,1,single,1,3,management / self-employed / highly qualified employee / officer,1,High,0,1 year - 4 years,15.33960842323136
+48,business,4,No Property,0,0,1,paid,1,34,1,single,0,4,unskilled - resident,1,Low,0,4 years - 7 years,15.16202404907232
+27,business,4,car or other,0,0,1,existing loans paid back duly till now,1,36,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.18032588740704
+6,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,29,1,married/widowed,0,2,skilled employee / official,1,Low,0,4 years - 7 years,14.56125018864339
+45,electronic equipment,4,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,1,21,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.92440315603994
+9,education,2,car or other,0,0,2,critical/pending loans at other banks,1,34,0,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.2216421106156
+6,electronic equipment,1,car or other,0,0,2,critical/pending loans at other banks,0,28,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.139042283309752
+12,FF&E,4,car or other,0,0,4,existing loans paid back duly till now,1,27,0,divorced/separated/married,0,4,skilled employee / official,1,Low,1,0 year - 1 year,13.765269341527528
+24,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,36,1,single,0,4,skilled employee / official,1,None,1,7 years and up,14.830741237693331
+18,FF&E,4,No Property,0,0,1,delay in paying off loans in the past,1,40,1,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.273427662757133
+9,education,4,car or other,0,0,2,critical/pending loans at other banks,0,52,1,single,1,2,skilled employee / official,1,High,0,7 years and up,13.74937075545973
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,27,1,married/widowed,1,3,unskilled - resident,1,Low,0,1 year - 4 years,13.97080344237031
+27,business,3,car or other,0,0,2,delay in paying off loans in the past,0,26,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,15.44807888778723
+12,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,21,1,married/widowed,0,4,skilled employee / official,1,Low,0,4 years - 7 years,13.71236979904476
+12,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,38,1,single,1,1,unskilled - resident,1,Low,0,7 years and up,14.217636764806924
+30,used vehicle,3,No Property,0,0,3,critical/pending loans at other banks,0,38,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,16.17853201976215
+12,FF&E,4,real estate,0,0,3,critical/pending loans at other banks,0,43,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.475617884446018
+12,FF&E,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,26,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.168980370954058
+24,business,2,car or other,0,0,1,existing loans paid back duly till now,0,21,1,married/widowed,1,2,unskilled - resident,1,Low,1,1 year - 4 years,15.6977199301144
+12,used vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,55,1,single,1,2,skilled employee / official,0,High,0,4 years - 7 years,14.161225661666665
+9,electronic equipment,1,real estate,0,0,2,critical/pending loans at other banks,0,33,1,single,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.938490203080676
+36,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,45,0,divorced/separated/married,1,4,unskilled - resident,1,None,0,7 years and up,15.159679992783492
+27,business,2,building society savings agreement/life insurance,0,0,2,paid,1,50,1,single,1,4,skilled employee / official,1,Low,1,None,15.481895750840124
+30,business,4,real estate,0,0,1,delay in paying off loans in the past,1,66,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.461566130990368
+36,electronic equipment,4,car or other,0,0,1,critical/pending loans at other banks,0,51,1,single,1,2,skilled employee / official,1,None,0,7 years and up,15.022079988137476
+6,education,1,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,39,0,divorced/separated/married,1,3,unskilled - resident,1,None,0,4 years - 7 years,13.745088093667729
+18,business,3,building society savings agreement/life insurance,0,0,1,paid,0,31,1,single,1,1,skilled employee / official,1,Low,1,4 years - 7 years,14.948202160285248
+36,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,23,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.17981490119255
+24,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,24,1,divorced/separated/married,0,2,unskilled - resident,1,Low,0,1 year - 4 years,14.921098460368809
+10,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,64,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.125932117385544
+12,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,26,1,married/widowed,1,1,unskilled - resident,1,Low,1,0 year - 1 year,13.34550692871854
+12,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,skilled employee / official,1,None,1,1 year - 4 years,13.997832114758229
+12,electronic equipment,4,real estate,0,0,2,existing loans paid back duly till now,0,30,1,single,1,2,skilled employee / official,1,Low,1,1 year - 4 years,13.468785944878707
+24,business,4,real estate,0,0,2,delay in paying off loans in the past,0,32,1,single,1,4,skilled employee / official,1,None,0,1 year - 4 years,14.906762492226092
+15,used vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,30,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.353882021964514
+36,FF&E,4,car or other,0,0,2,paid,0,27,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.776009544502749
+48,electronic equipment,1,No Property,1,0,2,existing loans paid back duly till now,1,27,1,single,1,2,skilled employee / official,1,High,1,4 years - 7 years,16.20985407619786
+12,FF&E,4,No Property,0,0,1,existing loans paid back duly till now,1,53,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.877933094474516
+9,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,22,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.206200380490284
+24,FF&E,4,No Property,0,0,1,existing loans paid back duly till now,0,22,1,single,0,1,skilled employee / official,1,Low,1,0 year - 1 year,14.96259550008316
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,26,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.252973205658565
+9,new vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,51,1,single,0,4,unskilled - resident,1,High,0,7 years and up,14.73459737714043
+12,electronic equipment,3,No Property,0,0,1,existing loans paid back duly till now,0,35,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.57678356757182
+18,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,25,1,married/widowed,1,2,unskilled - resident,1,Low,0,1 year - 4 years,13.671640187544572
+4,electronic equipment,2,real estate,0,0,3,critical/pending loans at other banks,0,42,1,single,1,1,unskilled - resident,1,Low,0,4 years - 7 years,14.24988700956686
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,30,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,1,None,14.4159940536608
+6,new vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,23,1,single,1,2,unemployed / unskilled - non-resident,1,None,0,None,16.49344513516186
+21,business,4,car or other,0,0,2,existing loans paid back duly till now,1,61,1,divorced/separated/married,0,2,unskilled - resident,1,Low,1,7 years and up,14.833274258769062
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,35,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.07092766982878
+30,electronic equipment,1,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,39,1,single,1,3,skilled employee / official,1,Low,0,7 years and up,14.740562795507
+24,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,29,0,divorced/separated/married,1,2,skilled employee / official,1,None,1,7 years and up,13.726679344257658
+6,electronic equipment,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,51,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.282384294201082
+48,used vehicle,3,No Property,0,0,2,paid,1,24,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.342653227671544
+12,business,3,real estate,0,0,2,critical/pending loans at other banks,0,27,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.985253332551368
+12,education,4,real estate,0,0,1,paid,0,35,0,divorced/separated/married,1,3,unskilled - resident,1,High,0,1 year - 4 years,15.053014845499002
+24,business,4,real estate,0,0,1,existing loans paid back duly till now,0,25,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.045033716242523
+12,electronic equipment,4,real estate,0,0,3,critical/pending loans at other banks,0,52,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,13.482831119581755
+6,new vehicle,4,No Property,0,0,1,paid,0,35,1,single,0,1,skilled employee / official,0,Low,1,1 year - 4 years,14.001159904850905
+24,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,26,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.470436525704022
+18,electronic equipment,3,real estate,1,0,1,existing loans paid back duly till now,1,22,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,None,12.978493006984626
+6,new vehicle,3,real estate,0,0,2,critical/pending loans at other banks,0,39,0,divorced/separated/married,1,4,unskilled - resident,1,High,0,4 years - 7 years,13.409044949522526
+12,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,0,46,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.62688511988887
+30,new vehicle,4,No Property,0,1,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,1 year - 4 years,14.580978400103843
+24,FF&E,2,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,35,1,single,1,3,skilled employee / official,1,Low,0,1 year - 4 years,15.238859827035176
+9,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,24,1,single,1,1,skilled employee / official,1,None,0,4 years - 7 years,14.52354635101797
+60,electronic equipment,1,real estate,0,0,1,delay in paying off loans in the past,0,27,1,single,1,1,unskilled - resident,1,None,0,1 year - 4 years,15.819420037031673
+24,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,35,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.802818777073709
+12,electronic equipment,4,No Property,0,0,1,paid,1,29,1,divorced/separated/married,0,1,skilled employee / official,1,Low,0,1 year - 4 years,14.580513175624649
+15,used vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,15.15366454375623
+11,electronic equipment,4,real estate,0,0,3,critical/pending loans at other banks,0,57,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,None,13.95874472605018
+12,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,27,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.3205192964087
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,55,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,14.28738743159169
+18,new vehicle,2,No Property,0,0,3,critical/pending loans at other banks,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.483594665831108
+12,education,2,No Property,0,0,3,critical/pending loans at other banks,0,57,0,divorced/separated/married,0,4,unskilled - resident,1,Low,1,7 years and up,14.826383932324378
+10,new vehicle,3,real estate,0,0,2,critical/pending loans at other banks,0,32,1,single,1,4,unskilled - resident,0,Low,0,7 years and up,14.02333740516659
+15,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,37,1,single,1,3,skilled employee / official,1,Low,0,7 years and up,13.594863886848652
+36,business,4,real estate,0,0,2,critical/pending loans at other banks,0,36,1,single,1,4,skilled employee / official,1,None,0,7 years and up,15.656694910519851
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,38,0,divorced/separated/married,1,3,skilled employee / official,1,Low,1,0 year - 1 year,14.24273715785395
+14,new vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,45,1,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,0,Low,0,7 years and up,16.010287698324014
+24,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,0,25,1,single,1,2,skilled employee / official,1,None,0,7 years and up,13.81451005763069
+18,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,32,1,single,1,3,skilled employee / official,0,None,0,4 years - 7 years,14.794588277937194
+12,FF&E,3,car or other,0,0,1,critical/pending loans at other banks,0,37,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,4 years - 7 years,14.153410346576672
+48,new vehicle,4,No Property,1,0,1,paid,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,None,0,None,16.31440229231894
+48,electronic equipment,4,real estate,0,0,2,existing loans paid back duly till now,1,28,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,14.933925473928564
+30,FF&E,1,No Property,0,0,1,existing loans paid back duly till now,1,34,1,divorced/separated/married,1,1,unskilled - resident,1,Low,0,0 year - 1 year,16.300250527195175
+9,electronic equipment,1,real estate,0,0,1,existing loans paid back duly till now,0,32,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.807650602121868
+18,electronic equipment,2,car or other,0,0,2,critical/pending loans at other banks,0,26,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.692644574637235
+12,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,49,1,divorced/separated/married,1,4,unskilled - resident,1,None,0,7 years and up,14.048208322083296
+6,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,32,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,15.343955311188845
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,29,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,14.457890621470566
+15,used vehicle,3,No Property,0,0,2,critical/pending loans at other banks,0,23,1,single,0,4,skilled employee / official,1,High,0,7 years and up,15.029829654344354
+12,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,50,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.269130707959484
+18,electronic equipment,4,car or other,0,0,1,paid,0,49,1,single,1,4,unskilled - resident,1,None,1,4 years - 7 years,14.183619879528669
+15,FF&E,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,63,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.234220892822458
+24,new vehicle,4,car or other,0,0,1,critical/pending loans at other banks,0,37,1,divorced/separated/married,1,2,skilled employee / official,1,Low,0,0 year - 1 year,15.170830114784732
+47,new vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,35,0,divorced/separated/married,1,1,unskilled - resident,1,Low,0,0 year - 1 year,16.18780826336962
+48,used vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,15.38162334566
+48,None,2,No Property,0,0,1,delay in paying off loans in the past,0,31,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.841287575058416
+12,electronic equipment,4,real estate,0,1,2,existing loans paid back duly till now,0,49,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,13.903521435286988
+24,electronic equipment,4,real estate,0,0,1,delay in paying off loans in the past,1,48,1,married/widowed,1,4,skilled employee / official,1,Low,1,0 year - 1 year,13.83922708458159
+12,business,2,real estate,0,0,1,existing loans paid back duly till now,0,26,1,married/widowed,1,2,skilled employee / official,0,Low,0,1 year - 4 years,13.888761019703868
+36,used vehicle,1,car or other,0,0,1,existing loans paid back duly till now,1,28,1,married/widowed,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,16.0560074586449
+24,used vehicle,2,No Property,0,0,2,critical/pending loans at other banks,0,44,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.674772900293917
+42,used vehicle,4,No Property,0,0,1,critical/pending loans at other banks,0,56,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.383292795129542
+48,business,4,car or other,0,0,2,critical/pending loans at other banks,0,46,1,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,None,1,7 years and up,15.847467333072366
+48,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,1,26,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,0 year - 1 year,16.114087629560782
+12,used vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,20,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,0 year - 1 year,15.357739720704924
+10,new vehicle,4,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,0,45,1,single,1,2,unskilled - resident,0,None,0,7 years and up,14.067824486578264
+18,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,43,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.737783361515977
+21,FF&E,3,car or other,0,0,2,critical/pending loans at other banks,0,32,1,single,1,2,skilled employee / official,1,High,0,4 years - 7 years,14.825291632925769
+6,new vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,54,0,divorced/separated/married,1,4,unemployed / unskilled - non-resident,1,Low,0,None,13.418013619505286
+36,electronic equipment,4,car or other,0,0,1,paid,1,42,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,15.15156370264742
+24,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,1,37,1,single,1,2,unskilled - resident,1,None,1,4 years - 7 years,14.111160800065232
+10,new vehicle,4,building society savings agreement/life insurance,1,0,2,critical/pending loans at other banks,0,49,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,13.852806342707972
+48,new vehicle,2,No Property,0,0,1,critical/pending loans at other banks,1,44,1,single,0,2,skilled employee / official,1,High,1,1 year - 4 years,16.13071568231442
+6,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,33,1,divorced/separated/married,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.249239131345298
+30,used vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,0,4,unskilled - resident,1,None,1,4 years - 7 years,15.386415520681592
+12,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,1,33,1,married/widowed,1,3,unskilled - resident,1,Low,0,0 year - 1 year,13.496681756515656
+8,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.028199651374624
+9,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,22,1,married/widowed,0,4,unskilled - resident,1,Low,0,1 year - 4 years,12.528156144699286
+48,None,3,No Property,0,0,1,existing loans paid back duly till now,0,40,1,single,0,4,unemployed / unskilled - non-resident,1,None,1,None,15.498384788471556
+24,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,25,1,single,1,1,skilled employee / official,1,Low,1,1 year - 4 years,15.522256652865371
+24,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,15.13699969571805
+12,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,1,25,1,married/widowed,1,3,unskilled - resident,1,Low,1,4 years - 7 years,13.437174117244362
+4,new vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,29,1,single,1,2,unskilled - resident,0,None,0,0 year - 1 year,14.2169676446749
+36,FF&E,4,car or other,0,0,1,paid,1,31,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,14.825655865310054
+12,FF&E,2,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,38,1,single,1,3,unskilled - resident,1,Low,0,1 year - 4 years,13.470199372675856
+24,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,48,0,divorced/separated/married,1,4,unskilled - resident,1,None,0,1 year - 4 years,15.285916261702818
+12,education,4,car or other,0,0,2,critical/pending loans at other banks,0,32,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.460263166016729
+15,FF&E,1,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,27,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,7 years and up,15.1083180759907
+30,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,1,28,1,married/widowed,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.262194219096948
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,32,1,divorced/separated/married,1,3,skilled employee / official,1,Low,0,0 year - 1 year,14.477167071432849
+24,used vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,34,1,single,0,1,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,14.883663639147676
+18,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,28,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.793460670225157
+18,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,36,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,1 year - 4 years,13.843125724997249
+8,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,39,1,single,1,4,unskilled - resident,0,Low,0,4 years - 7 years,15.038697581214016
+12,FF&E,2,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,49,1,single,0,4,skilled employee / official,1,None,0,7 years and up,15.573540874448202
+24,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,34,0,divorced/separated/married,1,3,skilled employee / official,1,High,0,4 years - 7 years,14.237504968023648
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,31,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,15.313569882414985
+6,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,28,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,13.881298298502276
+24,used vehicle,2,No Property,0,0,2,critical/pending loans at other banks,0,75,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.704850355531192
+18,education,4,real estate,0,0,2,critical/pending loans at other banks,1,30,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.438235274227674
+60,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,15.818071055308152
+48,used vehicle,2,car or other,0,0,2,critical/pending loans at other banks,1,24,0,divorced/separated/married,0,4,unskilled - resident,1,Low,1,1 year - 4 years,16.265653215315936
+24,FF&E,3,No Property,0,0,2,paid,1,23,1,single,0,4,skilled employee / official,1,Low,1,7 years and up,15.228933586472415
+6,FF&E,1,real estate,0,0,1,critical/pending loans at other banks,1,44,1,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.03456899970825
+13,electronic equipment,2,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,0 year - 1 year,14.557923979827136
+15,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,0,2,skilled employee / official,1,None,0,1 year - 4 years,14.058456736574664
+24,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,28,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,15.243186756862936
+10,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,31,1,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.23487857124143
+24,education,2,No Property,0,0,2,critical/pending loans at other banks,0,24,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,15.563492279846434
+21,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,4 years - 7 years,15.096166587061168
+18,electronic equipment,1,real estate,0,0,1,existing loans paid back duly till now,0,25,1,married/widowed,0,3,skilled employee / official,1,High,0,0 year - 1 year,14.982715638097996
+18,business,1,real estate,1,0,1,existing loans paid back duly till now,0,33,1,single,1,1,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,15.305939683816172
+10,new vehicle,1,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,37,1,single,1,1,unskilled - resident,1,Low,0,0 year - 1 year,15.188972940268789
+15,electronic equipment,4,car or other,0,0,1,critical/pending loans at other banks,0,43,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.193261827504925
+13,electronic equipment,4,real estate,0,1,2,critical/pending loans at other banks,0,23,1,single,1,4,skilled employee / official,1,Low,0,0 year - 1 year,13.68994733498893
+24,electronic equipment,1,No Property,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,unemployed / unskilled - non-resident,1,High,0,None,15.139397458955548
+6,business,1,real estate,0,0,2,delay in paying off loans in the past,0,34,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.371118324502158
+9,education,4,No Property,0,0,2,critical/pending loans at other banks,1,32,1,single,0,3,skilled employee / official,1,High,0,7 years and up,13.943023878263231
+9,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,14.027390916999773
+9,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,1,29,0,divorced/separated/married,1,2,skilled employee / official,0,Low,0,1 year - 4 years,13.773646353865574
+18,used vehicle,2,No Property,0,0,1,critical/pending loans at other banks,0,38,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,None,14.987683049740411
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,2,paid,1,28,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,15.639898546684057
+10,education,4,No Property,0,0,1,existing loans paid back duly till now,0,46,1,single,0,4,skilled employee / official,1,High,0,7 years and up,13.496681756515656
+24,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,1,23,1,single,1,2,unskilled - resident,1,Low,1,0 year - 1 year,14.035448978329535
+12,electronic equipment,1,real estate,1,0,1,critical/pending loans at other banks,0,49,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.661807918017894
+36,electronic equipment,4,car or other,0,0,2,delay in paying off loans in the past,1,26,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.311331743611406
+12,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,28,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.561907799165356
+30,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.69347617551676
+18,education,4,No Property,0,0,1,existing loans paid back duly till now,0,61,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,14.02981516061128
+12,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,37,1,single,1,3,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,15.038991828678252
+12,new vehicle,2,car or other,0,0,2,delay in paying off loans in the past,0,36,0,divorced/separated/married,1,2,skilled employee / official,1,Low,1,1 year - 4 years,14.625106551167466
+6,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,21,1,married/widowed,0,2,skilled employee / official,1,Low,0,1 year - 4 years,14.384227660146042
+18,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,25,1,single,1,1,unemployed / unskilled - non-resident,1,Low,0,None,14.720942546503553
+12,business,2,car or other,0,0,1,existing loans paid back duly till now,0,36,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,14.248590833105412
+18,used vehicle,3,car or other,0,0,2,critical/pending loans at other banks,0,27,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,15.163583706263967
+18,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,0,22,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,15.110237725558674
+36,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,42,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,15.052724696070012
+18,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,40,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.914456124422504
+36,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,36,1,single,1,4,skilled employee / official,1,None,0,1 year - 4 years,14.940115426906637
+18,electronic equipment,3,car or other,0,0,2,critical/pending loans at other banks,0,33,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,15.61886916303568
+10,FF&E,1,real estate,0,0,2,critical/pending loans at other banks,0,23,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,0 year - 1 year,14.57911620217278
+60,new vehicle,2,No Property,0,0,1,critical/pending loans at other banks,0,63,1,single,0,4,management / self-employed / highly qualified employee / officer,1,None,1,7 years and up,16.436985650534293
+60,None,3,No Property,0,0,2,paid,1,60,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,16.508920782326967
+48,business,2,car or other,0,1,1,paid,1,37,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,4 years - 7 years,15.854780934954832
+18,electronic equipment,2,real estate,0,0,2,delay in paying off loans in the past,0,34,1,married/widowed,1,3,skilled employee / official,1,Low,0,None,14.657077743642493
+7,electronic equipment,3,No Property,0,0,1,delay in paying off loans in the past,0,36,1,single,0,4,skilled employee / official,1,None,0,7 years and up,13.64827463858836
+36,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,57,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,16.47702804493827
+6,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,52,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,1 year - 4 years,12.799399490807907
+20,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,39,1,single,1,4,skilled employee / official,1,None,0,4 years - 7 years,14.609407641624362
+18,used vehicle,3,No Property,0,0,1,existing loans paid back duly till now,1,38,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,16.37861205533733
+22,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,4 years - 7 years,14.064711643597771
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,26,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.100689500197936
+30,business,2,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,26,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,15.267592659622167
+18,electronic equipment,2,car or other,0,0,2,critical/pending loans at other banks,0,25,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.621093167854008
+18,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,21,0,divorced/separated/married,0,2,skilled employee / official,1,None,0,0 year - 1 year,13.934182087681773
+18,FF&E,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,40,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,1,None,15.813470857776228
+15,business,2,car or other,0,0,1,critical/pending loans at other banks,0,27,1,single,1,4,skilled employee / official,1,High,1,1 year - 4 years,14.659660612060748
+9,business,3,car or other,0,0,2,existing loans paid back duly till now,0,27,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.18638422130282
+18,new vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,30,1,married/widowed,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,14.41434705905298
+12,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,19,0,divorced/separated/married,0,4,unskilled - resident,1,High,0,0 year - 1 year,13.798364399129303
+36,new vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,39,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,4 years - 7 years,14.993857814651236
+6,electronic equipment,1,car or other,0,0,1,critical/pending loans at other banks,0,31,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,4 years - 7 years,14.486923246378211
+9,FF&E,2,car or other,0,0,1,critical/pending loans at other banks,0,31,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.69347617551676
+39,education,2,No Property,0,0,1,delay in paying off loans in the past,0,32,1,single,0,3,skilled employee / official,1,Low,0,4 years - 7 years,16.280214500434756
+12,FF&E,3,No Property,0,0,1,existing loans paid back duly till now,0,55,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.76252446248127
+36,FF&E,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,46,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.669074459930124
+12,new vehicle,1,real estate,0,0,2,existing loans paid back duly till now,1,46,1,divorced/separated/married,0,1,skilled employee / official,1,Low,0,7 years and up,14.01681741466931
+24,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,43,0,divorced/separated/married,1,1,unskilled - resident,1,High,0,1 year - 4 years,14.231585845184457
+18,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,39,1,married/widowed,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.202811695444767
+18,business,4,real estate,0,0,2,critical/pending loans at other banks,0,28,1,married/widowed,1,4,skilled employee / official,1,None,1,1 year - 4 years,14.450498824350689
+24,business,2,car or other,0,0,2,delay in paying off loans in the past,1,27,1,single,1,2,skilled employee / official,1,Low,1,0 year - 1 year,15.972838638301182
+14,new vehicle,4,car or other,0,0,2,delay in paying off loans in the past,0,27,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,13.594863886848652
+18,new vehicle,4,car or other,0,0,1,delay in paying off loans in the past,0,43,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.879876407903792
+24,electronic equipment,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,22,1,married/widowed,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.527970049556592
+24,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,43,1,single,1,4,skilled employee / official,1,None,0,4 years - 7 years,14.602603351366747
+15,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,27,1,married/widowed,1,2,skilled employee / official,0,Low,0,0 year - 1 year,13.867153791116111
+24,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,26,1,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,High,0,7 years and up,14.989539485917138
+12,new vehicle,4,real estate,0,0,3,critical/pending loans at other banks,1,28,1,married/widowed,1,2,skilled employee / official,1,High,0,4 years - 7 years,13.7525707581904
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,20,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,14.492020097371196
+33,used vehicle,3,car or other,0,0,2,critical/pending loans at other banks,0,35,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.79692573434555
+12,business,4,car or other,0,0,2,critical/pending loans at other banks,1,42,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,1,None,14.644935356816768
+10,new vehicle,3,No Property,0,0,1,existing loans paid back duly till now,0,40,1,single,0,2,unskilled - resident,0,High,0,1 year - 4 years,14.28363742719715
+24,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,35,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.13831843239143
+36,used vehicle,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,35,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,15.580583761929825
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,1,33,1,single,1,1,unskilled - resident,1,Low,0,0 year - 1 year,14.762912284863482
+18,education,1,car or other,0,0,2,delay in paying off loans in the past,0,23,0,divorced/separated/married,0,2,skilled employee / official,1,None,0,1 year - 4 years,15.952159123413688
+21,new vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,31,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,High,1,4 years - 7 years,14.838680651465523
+18,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,33,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,1 year - 4 years,13.85665250129545
+15,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,20,0,divorced/separated/married,0,3,skilled employee / official,1,High,0,4 years - 7 years,14.97427676945213
+12,used vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,30,1,single,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.522560643693213
+12,new vehicle,2,real estate,0,0,2,critical/pending loans at other banks,0,47,1,single,1,3,unskilled - resident,1,Low,0,4 years - 7 years,13.772603056952995
+21,FF&E,4,real estate,0,0,2,delay in paying off loans in the past,0,34,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,14.279873307319924
+12,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,25,0,divorced/separated/married,1,2,skilled employee / official,1,None,1,7 years and up,14.831465612951376
+18,used vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,21,1,married/widowed,0,3,skilled employee / official,1,Low,0,1 year - 4 years,14.83760170872464
+28,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,29,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,14.82456276991974
+18,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,46,1,single,1,3,skilled employee / official,1,High,0,1 year - 4 years,13.954402556830892
+9,FF&E,1,car or other,0,0,1,existing loans paid back duly till now,0,20,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.087825153284934
+18,FF&E,2,No Property,0,0,3,critical/pending loans at other banks,1,55,0,divorced/separated/married,0,4,unemployed / unskilled - non-resident,1,Low,0,None,13.989463865087712
+5,business,1,real estate,0,0,1,existing loans paid back duly till now,0,74,1,single,1,4,unskilled - resident,1,Low,0,4 years - 7 years,15.05330491076572
+24,None,2,car or other,1,0,2,existing loans paid back duly till now,1,29,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,1,1 year - 4 years,16.24278809491564
+6,FF&E,4,No Property,0,0,3,critical/pending loans at other banks,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.442517936019676
+24,FF&E,4,real estate,0,0,2,critical/pending loans at other banks,0,33,1,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.537245195376132
+9,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,25,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.574445479062222
+12,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,1,25,1,married/widowed,1,1,skilled employee / official,1,None,0,1 year - 4 years,14.210251702709463
+6,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,23,1,married/widowed,0,4,unskilled - resident,1,High,0,4 years - 7 years,13.399995114002609
+24,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,37,0,divorced/separated/married,1,4,skilled employee / official,1,High,0,7 years and up,14.067824486578264
+42,FF&E,4,car or other,1,0,2,critical/pending loans at other banks,0,65,1,single,1,4,unemployed / unskilled - non-resident,1,Low,0,None,15.037519724776308
+12,business,4,real estate,0,0,1,paid,1,26,0,divorced/separated/married,1,1,unemployed / unskilled - non-resident,1,Low,0,0 year - 1 year,13.319573546692034
+12,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,39,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.448907734118446
+12,FF&E,2,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,0,30,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,1 year - 4 years,14.297936707208567
+20,None,2,car or other,0,0,2,delay in paying off loans in the past,0,29,1,single,1,3,skilled employee / official,1,Low,1,1 year - 4 years,14.78211410371202
+12,education,4,car or other,0,0,1,existing loans paid back duly till now,1,41,1,single,1,4,unskilled - resident,1,Low,1,7 years and up,13.485616636703185
+48,FF&E,2,car or other,0,0,1,critical/pending loans at other banks,1,30,0,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.443966476234136
+9,education,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,41,0,divorced/separated/married,0,4,unskilled - resident,1,None,0,7 years and up,14.033842552281262
+36,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,34,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.42636249579739
+7,electronic equipment,2,real estate,0,1,1,existing loans paid back duly till now,0,35,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.761748366206382
+12,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,55,0,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,14.168980370954058
+15,FF&E,3,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,1,61,1,married/widowed,1,3,skilled employee / official,1,High,1,1 year - 4 years,14.228943835721616
+36,used vehicle,4,car or other,0,0,1,critical/pending loans at other banks,0,30,1,single,1,2,management / self-employed / highly qualified employee / officer,1,None,0,1 year - 4 years,16.218302911375346
+6,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,29,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,13.15773052124162
+12,FF&E,2,building society savings agreement/life insurance,0,0,2,paid,0,34,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.830378853199424
+24,used vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,35,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.797589030376432
+24,new vehicle,2,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,1,31,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,15.387661885612358
+24,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,29,0,divorced/separated/married,1,1,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.800954148526746
+11,new vehicle,2,real estate,0,0,2,critical/pending loans at other banks,0,36,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,15.177768341255923
+12,used vehicle,3,No Property,0,0,1,existing loans paid back duly till now,1,35,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.035159841675217
+6,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,12.745485726148075
+18,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,32,1,single,1,2,skilled employee / official,1,Low,0,0 year - 1 year,15.34026166223118
+36,FF&E,1,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,37,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.101984583801954
+15,new vehicle,2,real estate,0,0,1,existing loans paid back duly till now,0,36,1,single,1,3,skilled employee / official,1,Low,0,0 year - 1 year,14.358416075193675
+12,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,34,0,divorced/separated/married,0,1,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.9197735181412
+12,education,4,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,38,1,single,1,4,skilled employee / official,1,None,0,7 years and up,13.533147646990091
+18,business,4,car or other,0,0,2,existing loans paid back duly till now,0,34,1,single,1,1,skilled employee / official,1,Low,1,4 years - 7 years,14.48333993053993
+24,used vehicle,3,No Property,0,1,1,existing loans paid back duly till now,0,63,1,single,1,4,skilled employee / official,1,Low,1,1 year - 4 years,14.888463099851808
+24,electronic equipment,4,car or other,0,0,1,delay in paying off loans in the past,1,29,0,divorced/separated/married,0,2,unskilled - resident,1,Low,0,0 year - 1 year,14.321725569172582
+48,electronic equipment,3,car or other,0,0,2,delay in paying off loans in the past,0,32,1,single,1,3,skilled employee / official,1,None,1,7 years and up,15.794855483105826
+33,business,2,car or other,0,0,2,delay in paying off loans in the past,0,26,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.832189463869698
+24,used vehicle,3,car or other,0,0,2,delay in paying off loans in the past,0,35,1,single,1,3,unskilled - resident,1,Low,0,4 years - 7 years,15.358594969848353
+24,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,1,22,1,married/widowed,0,2,skilled employee / official,1,Low,0,0 year - 1 year,14.944328688689447
+6,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,13.012548511397124
+9,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,28,1,single,1,3,unskilled - resident,1,Low,0,1 year - 4 years,13.390862630439337
+6,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,36,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,None,14.02900773222668
+18,electronic equipment,4,car or other,0,0,1,critical/pending loans at other banks,1,33,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.034646087880946
+18,FF&E,1,building society savings agreement/life insurance,0,0,1,paid,1,26,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,14.95141863137608
+39,used vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,24,1,single,1,4,skilled employee / official,1,High,0,1 year - 4 years,14.75902727609202
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,25,1,single,1,2,skilled employee / official,1,Low,1,4 years - 7 years,15.454895546766329
+12,business,3,real estate,0,0,1,existing loans paid back duly till now,0,39,1,single,1,4,unskilled - resident,1,Low,0,4 years - 7 years,13.851842487211664
+15,FF&E,4,car or other,0,0,2,critical/pending loans at other banks,0,44,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.206200380490284
+12,electronic equipment,1,real estate,0,0,1,critical/pending loans at other banks,0,23,0,divorced/separated/married,1,1,unskilled - resident,1,Low,0,1 year - 4 years,15.088916137005548
+24,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,13.99866510106212
+30,FF&E,4,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,57,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,7 years and up,15.102536917425496
+15,FF&E,3,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,30,0,divorced/separated/married,1,2,skilled employee / official,1,High,0,4 years - 7 years,13.77468856344402
+12,new vehicle,4,real estate,0,0,1,critical/pending loans at other banks,0,44,1,single,1,4,skilled employee / official,1,High,0,1 year - 4 years,13.966513431500802
+6,new vehicle,4,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,1,47,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,None,14.00530412959693
+12,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,52,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.93946565430418
+24,new vehicle,4,No Property,1,0,1,existing loans paid back duly till now,0,62,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,7 years and up,15.139131324556104
+10,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,0,35,1,single,0,2,unskilled - resident,0,Low,0,1 year - 4 years,14.16475798607421
+6,new vehicle,2,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,26,1,single,0,3,skilled employee / official,1,Low,0,1 year - 4 years,15.07340320427964
+12,electronic equipment,2,No Property,0,0,2,critical/pending loans at other banks,0,26,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,14.475100954995376
+27,business,2,No Property,0,0,2,paid,1,42,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.933932399284997
+6,electronic equipment,1,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.028199651374624
+6,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,38,1,single,1,4,skilled employee / official,1,None,0,7 years and up,12.815838217151068
+12,new vehicle,3,real estate,0,0,2,critical/pending loans at other banks,0,39,1,single,0,2,unskilled - resident,0,Low,0,1 year - 4 years,14.567869598156063
+24,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,1,20,1,married/widowed,1,4,skilled employee / official,1,None,0,1 year - 4 years,14.912788623619248
+36,FF&E,4,No Property,1,0,1,existing loans paid back duly till now,1,29,1,single,0,1,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,16.016505795196686
+24,FF&E,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,40,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.27609496529352
+18,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,32,1,married/widowed,1,2,unskilled - resident,1,Low,0,7 years and up,14.078643757494644
+6,new vehicle,2,car or other,0,0,2,critical/pending loans at other banks,0,28,1,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,14.095412443097093
+24,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.954304636265215
+36,used vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,42,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.518985112324758
+9,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,49,1,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,13.934182087681773
+24,electronic equipment,4,No Property,0,0,2,critical/pending loans at other banks,1,38,1,single,1,4,skilled employee / official,1,Low,1,0 year - 1 year,14.01107734150825
+24,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,14.003648500079668
+10,new vehicle,4,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,1,27,1,single,1,4,unskilled - resident,1,None,0,1 year - 4 years,14.084774044892036
+15,used vehicle,2,car or other,0,0,1,critical/pending loans at other banks,0,36,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.674172177001791
+15,new vehicle,1,building society savings agreement/life insurance,0,0,1,paid,1,34,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.739759210238407
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,28,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.161225661666665
+39,used vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,45,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.965876437980809
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,1,26,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,13.539757056377766
+36,used vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,32,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.360089898049878
+15,business,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,1,single,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.803935887597628
+12,electronic equipment,4,real estate,1,0,2,delay in paying off loans in the past,0,20,1,married/widowed,0,4,skilled employee / official,1,Low,0,1 year - 4 years,13.279367126213993
+24,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,54,1,single,1,1,skilled employee / official,1,None,0,0 year - 1 year,14.628660530918916
+6,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,37,0,divorced/separated/married,1,3,skilled employee / official,0,Low,0,4 years - 7 years,13.319573546692034
+6,new vehicle,2,real estate,0,0,1,critical/pending loans at other banks,0,40,1,single,1,4,unskilled - resident,0,Low,0,0 year - 1 year,14.123730281633604
+36,FF&E,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,15.779400946484008
+6,new vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,43,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,14.000328994956815
+6,electronic equipment,4,No Property,0,0,2,critical/pending loans at other banks,0,36,1,single,0,4,skilled employee / official,1,None,0,7 years and up,13.458835614025542
+24,FF&E,3,No Property,0,0,2,critical/pending loans at other banks,0,44,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.521530568244618
+18,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.975531474761029
+48,FF&E,3,No Property,0,0,2,paid,1,53,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,15.778277824086013
+24,used vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,4 years - 7 years,15.064839064011007
+18,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,1 year - 4 years,13.922569630257682
+26,used vehicle,2,car or other,0,0,2,existing loans paid back duly till now,0,30,1,single,1,3,skilled employee / official,1,Low,0,0 year - 1 year,15.890693042723727
+15,education,4,car or other,0,0,1,critical/pending loans at other banks,0,31,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,1 year - 4 years,14.242084629282674
+4,electronic equipment,2,real estate,0,0,2,critical/pending loans at other banks,0,42,1,single,1,1,unskilled - resident,1,Low,0,4 years - 7 years,14.222973668735111
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,31,1,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.649288868263964
+6,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,0,41,1,single,1,4,unskilled - resident,1,Low,0,0 year - 1 year,13.403020834919143
+36,education,3,car or other,0,0,2,existing loans paid back duly till now,0,32,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.63661110283468
+15,new vehicle,2,car or other,0,0,2,existing loans paid back duly till now,1,28,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.78287456002243
+12,used vehicle,4,real estate,0,0,1,delay in paying off loans in the past,0,41,1,married/widowed,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.222973668735111
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,1,married/widowed,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.086300762745838
+24,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,0,25,1,single,1,2,skilled employee / official,1,None,0,0 year - 1 year,14.948524273349715
+21,education,2,car or other,0,0,1,critical/pending loans at other banks,1,33,1,divorced/separated/married,0,1,skilled employee / official,1,Low,0,0 year - 1 year,14.65664661623767
+6,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,75,0,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,None,0,None,14.133236751764432
+18,FF&E,3,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,37,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,15.099772193519014
+48,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,42,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,15.864879415387817
+18,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,45,0,divorced/separated/married,1,1,unskilled - resident,1,Low,1,0 year - 1 year,14.930324225970391
+12,electronic equipment,1,real estate,0,0,1,existing loans paid back duly till now,1,23,1,married/widowed,0,1,skilled employee / official,1,Low,0,0 year - 1 year,14.24338926090934
+24,new vehicle,4,No Property,0,0,2,delay in paying off loans in the past,0,60,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,14.52453108768051
+30,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,31,1,single,1,4,skilled employee / official,1,None,0,7 years and up,15.663965370868874
+18,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,1,34,1,single,1,1,unskilled - resident,1,Low,0,1 year - 4 years,14.867729807062672
+12,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,61,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,14.042646130548022
+24,new vehicle,4,real estate,0,0,2,delay in paying off loans in the past,1,43,1,single,0,2,skilled employee / official,1,Low,0,None,14.102942599160846
+24,new vehicle,4,car or other,0,0,1,critical/pending loans at other banks,0,37,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.519597678562551
+24,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,32,1,single,1,1,skilled employee / official,1,Low,1,4 years - 7 years,14.2550549797253
+12,electronic equipment,4,real estate,0,0,1,paid,1,24,0,divorced/separated/married,1,4,unskilled - resident,1,Low,1,1 year - 4 years,13.347105650082236
+48,used vehicle,2,No Property,0,0,2,critical/pending loans at other banks,0,35,1,single,0,1,skilled employee / official,1,None,0,4 years - 7 years,15.99683156346528
+12,FF&E,4,real estate,0,0,2,critical/pending loans at other banks,0,23,0,divorced/separated/married,1,4,skilled employee / official,1,None,0,4 years - 7 years,13.811502536566737
+6,electronic equipment,2,building society savings agreement/life insurance,0,0,1,paid,0,45,1,single,1,4,unskilled - resident,1,High,1,7 years and up,14.375126345899696
+48,electronic equipment,1,real estate,0,1,2,existing loans paid back duly till now,1,34,1,married/widowed,1,1,skilled employee / official,1,Low,0,4 years - 7 years,15.761277839671676
+12,new vehicle,4,car or other,0,0,1,critical/pending loans at other banks,0,27,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.5061546083061
+9,education,4,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,67,0,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,13.996998434009653
+12,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,1,22,1,single,1,1,skilled employee / official,1,Low,1,0 year - 1 year,14.101441097377249
+18,new vehicle,3,car or other,0,0,2,paid,1,28,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,0 year - 1 year,14.638808422989264
+21,new vehicle,1,building society savings agreement/life insurance,0,0,2,paid,1,29,0,divorced/separated/married,1,4,skilled employee / official,1,None,1,1 year - 4 years,15.425548290470342
+24,FF&E,3,car or other,0,0,1,paid,1,27,1,single,1,4,skilled employee / official,1,Low,1,4 years - 7 years,15.0830213830942
+18,FF&E,2,real estate,0,0,2,critical/pending loans at other banks,1,31,1,single,1,2,unskilled - resident,1,Low,0,0 year - 1 year,14.471993754152628
+24,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,49,1,single,0,4,skilled employee / official,1,None,1,7 years and up,14.902050265398117
+24,electronic equipment,4,car or other,0,1,1,paid,1,24,1,single,0,4,unskilled - resident,1,Low,1,4 years - 7 years,14.251181508129504
+6,electronic equipment,2,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,0,29,0,divorced/separated/married,1,1,skilled employee / official,1,Low,1,0 year - 1 year,13.434250138552928
+36,new vehicle,1,No Property,0,0,1,existing loans paid back duly till now,1,37,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,16.332319540097878
+24,business,4,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,37,1,single,1,2,management / self-employed / highly qualified employee / officer,1,None,1,1 year - 4 years,15.36562300431356
+24,electronic equipment,3,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,23,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,4 years - 7 years,14.255699102130825
+12,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,1,36,1,divorced/separated/married,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.131780087267968
+24,electronic equipment,2,car or other,0,0,1,critical/pending loans at other banks,0,34,1,single,1,2,skilled employee / official,1,High,0,7 years and up,14.76252446248127
+48,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,0,41,1,single,1,1,skilled employee / official,1,None,0,4 years - 7 years,15.196541089409063
+48,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,1,31,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.726237546256373
+24,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,0 year - 1 year,14.989230319119187
+30,electronic equipment,3,car or other,1,0,1,critical/pending loans at other banks,0,38,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.59957382055786
+24,used vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,None,0,None,15.50800202553366
+15,business,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,22,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,1 year - 4 years,13.599839021488766
+9,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,0,27,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,13.894321738388564
+15,FF&E,2,car or other,1,0,2,critical/pending loans at other banks,0,24,0,divorced/separated/married,1,3,skilled employee / official,1,Low,1,4 years - 7 years,14.840835050862552
+12,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.89051298099325
+24,education,3,car or other,0,0,2,critical/pending loans at other banks,0,33,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.471474947396503
+36,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,1,27,1,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.852247442914296
+24,education,4,car or other,0,0,2,existing loans paid back duly till now,0,27,1,married/widowed,1,3,unskilled - resident,1,Low,0,0 year - 1 year,13.75043856122056
+18,new vehicle,3,real estate,0,1,2,critical/pending loans at other banks,1,30,1,single,1,3,skilled employee / official,1,Low,1,7 years and up,13.869998743248344
+12,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,49,1,single,1,3,unskilled - resident,1,Low,1,0 year - 1 year,14.954624789941713
+9,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,1 year - 4 years,14.143374420048886
+36,FF&E,4,No Property,0,0,1,existing loans paid back duly till now,1,33,1,single,0,1,unskilled - resident,1,Low,0,0 year - 1 year,14.684290307167377
+12,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,52,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,14.573039997453488
+18,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,1,20,0,divorced/separated/married,0,4,skilled employee / official,1,Low,1,1 year - 4 years,14.527970049556592
+9,new vehicle,2,real estate,0,0,2,critical/pending loans at other banks,0,36,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,14.84477276849759
+12,FF&E,4,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,21,1,single,1,1,unskilled - resident,1,Low,0,1 year - 4 years,14.069377281921325
+18,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,1,47,1,married/widowed,1,3,unskilled - resident,1,Low,0,1 year - 4 years,14.011899371969664
+12,FF&E,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,60,1,single,1,3,skilled employee / official,1,Low,0,7 years and up,14.624661414280526
+12,electronic equipment,4,real estate,0,0,4,critical/pending loans at other banks,0,58,0,divorced/separated/married,1,3,unskilled - resident,1,Low,0,4 years - 7 years,12.86099861326992
+24,new vehicle,4,car or other,0,0,2,delay in paying off loans in the past,0,42,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,1 year - 4 years,14.4910028032855
+21,business,4,real estate,0,0,1,existing loans paid back duly till now,0,36,0,divorced/separated/married,1,4,unskilled - resident,1,High,1,7 years and up,14.26785925197129
+24,new vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,20,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,1 year - 4 years,14.815406873693226
+24,None,4,car or other,0,0,1,paid,1,40,1,single,1,3,management / self-employed / highly qualified employee / officer,1,None,1,7 years and up,14.121523587100778
+6,new vehicle,1,building society savings agreement/life insurance,0,0,1,paid,1,32,0,divorced/separated/married,1,1,unskilled - resident,1,Low,1,0 year - 1 year,13.744014556259204
+24,new vehicle,4,car or other,0,0,2,existing loans paid back duly till now,1,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.181541596827032
+24,business,1,real estate,0,0,3,paid,1,36,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,15.260309648456728
+18,new vehicle,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,31,1,single,1,2,skilled employee / official,1,Low,1,4 years - 7 years,14.836161305162673
+24,business,1,No Property,0,0,1,delay in paying off loans in the past,0,32,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,15.166954641648418
+7,electronic equipment,1,real estate,0,1,1,existing loans paid back duly till now,0,45,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.660949548866478
+9,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,30,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,13.729952669602628
+24,education,4,No Property,0,0,1,paid,1,34,0,divorced/separated/married,0,4,unskilled - resident,1,Low,1,4 years - 7 years,14.423644364197262
+36,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,28,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.02417235177634
+10,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,0 year - 1 year,14.058456736574664
+24,FF&E,4,real estate,0,0,1,paid,0,22,1,single,1,4,skilled employee / official,1,High,1,1 year - 4 years,14.8550803059986
+24,business,3,real estate,0,0,1,critical/pending loans at other banks,0,74,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.32534910517562
+36,electronic equipment,4,No Property,1,0,1,existing loans paid back duly till now,1,50,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.797963492092098
+18,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,33,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.533838037054515
+15,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,45,1,single,0,4,skilled employee / official,1,None,1,7 years and up,14.077874822431763
+12,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,22,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,None,13.515755904278224
+10,new vehicle,1,No Property,0,0,1,existing loans paid back duly till now,1,48,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,7 years and up,14.03062193758122
+21,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,29,0,divorced/separated/married,1,2,skilled employee / official,1,High,1,0 year - 1 year,15.026558275962172
+24,used vehicle,1,car or other,0,1,1,paid,0,22,0,divorced/separated/married,0,4,skilled employee / official,0,Low,1,1 year - 4 years,15.10529401870332
+18,FF&E,4,real estate,0,0,1,delay in paying off loans in the past,1,22,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.40773181993426
+48,business,2,car or other,0,0,1,paid,0,48,1,single,1,2,management / self-employed / highly qualified employee / officer,1,None,1,1 year - 4 years,16.317274324818698
+60,electronic equipment,2,No Property,0,0,1,delay in paying off loans in the past,0,27,1,single,0,2,management / self-employed / highly qualified employee / officer,1,None,0,1 year - 4 years,16.03002917208987
+6,new vehicle,1,real estate,0,0,3,critical/pending loans at other banks,0,37,1,single,0,3,skilled employee / official,1,Low,0,1 year - 4 years,15.117335762457715
+30,FF&E,2,car or other,1,0,1,existing loans paid back duly till now,1,21,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,15.051272684779615
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,49,1,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,13.369223455335854
+21,business,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,15.110785520696997
+18,new vehicle,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,32,1,single,1,2,skilled employee / official,1,Low,1,1 year - 4 years,14.24077829336862
+48,business,4,real estate,0,0,1,existing loans paid back duly till now,1,38,1,divorced/separated/married,1,2,skilled employee / official,1,None,1,1 year - 4 years,15.180070426938158
+12,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,22,0,divorced/separated/married,0,1,skilled employee / official,1,Low,0,0 year - 1 year,14.43501119835592
+18,electronic equipment,4,No Property,0,0,2,existing loans paid back duly till now,1,65,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.77102200299171
+15,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,35,1,single,1,2,skilled employee / official,1,None,0,7 years and up,14.498102224584702
+6,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,0,41,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.565038071960329
+9,new vehicle,2,No Property,0,0,1,paid,1,29,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.178068165061164
+42,FF&E,4,real estate,0,0,2,critical/pending loans at other banks,0,36,1,single,1,4,skilled employee / official,1,High,0,1 year - 4 years,15.212250176945703
+9,education,1,real estate,0,0,1,existing loans paid back duly till now,0,64,1,single,1,4,unskilled - resident,1,None,0,7 years and up,15.158897418072888
+24,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,15.112973705377549
+18,FF&E,4,car or other,0,0,1,paid,1,44,1,single,1,3,skilled employee / official,1,Low,1,1 year - 4 years,14.255699102130825
+15,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,23,1,single,1,1,skilled employee / official,1,None,0,0 year - 1 year,14.182927598434908
+9,FF&E,2,car or other,1,0,2,existing loans paid back duly till now,1,19,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,0 year - 1 year,14.498607402670718
+24,new vehicle,3,car or other,0,0,1,existing loans paid back duly till now,1,25,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,0 year - 1 year,14.119312012295936
+12,education,4,building society savings agreement/life insurance,0,0,3,existing loans paid back duly till now,0,47,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,14.146970252761944
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,1,1,skilled employee / official,1,High,0,4 years - 7 years,14.134691297475426
+60,electronic equipment,2,car or other,0,0,2,delay in paying off loans in the past,0,21,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,16.56617314987036
+12,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,34,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,0 year - 1 year,14.216298076521328
+42,electronic equipment,3,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,1,26,1,single,1,2,skilled employee / official,1,Low,1,4 years - 7 years,15.290273567071774
+18,education,4,real estate,0,0,1,existing loans paid back duly till now,1,27,0,divorced/separated/married,1,1,unemployed / unskilled - non-resident,1,Low,0,None,13.527828485512494
+15,FF&E,4,car or other,0,0,2,existing loans paid back duly till now,0,38,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,14.08400981099928
+15,education,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,40,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.346554402970362
+24,electronic equipment,4,car or other,0,1,2,critical/pending loans at other banks,0,33,1,married/widowed,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.431236591555637
+18,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,32,1,married/widowed,1,1,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,14.446782334806132
+36,business,4,car or other,0,0,2,delay in paying off loans in the past,1,27,1,single,0,4,skilled employee / official,1,None,0,0 year - 1 year,15.892448969425992
+30,FF&E,2,real estate,0,1,2,paid,0,32,1,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.337864363491262
+12,new vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,26,0,divorced/separated/married,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.141932458731986
+24,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,38,1,single,0,3,skilled employee / official,1,Low,1,4 years - 7 years,13.761054372168216
+12,education,4,car or other,0,0,1,existing loans paid back duly till now,1,40,1,single,0,4,unskilled - resident,1,Low,0,1 year - 4 years,13.435713196604688
+48,education,4,No Property,0,0,1,existing loans paid back duly till now,0,50,1,single,0,1,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.82720844755759
+12,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,37,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.468876868512377
+24,new vehicle,4,real estate,1,0,1,existing loans paid back duly till now,1,45,1,single,1,1,skilled employee / official,1,Low,0,7 years and up,14.649723178802825
+36,new vehicle,2,car or other,0,0,4,delay in paying off loans in the past,1,42,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.905644729182852
+24,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,35,1,single,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.668222308195558
+14,new vehicle,1,No Property,0,0,1,existing loans paid back duly till now,0,22,1,single,0,4,skilled employee / official,1,Low,0,None,15.195032034796736
+12,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,41,1,single,1,4,unskilled - resident,1,Low,1,7 years and up,13.696727021974308
+48,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,37,1,single,1,3,skilled employee / official,1,None,1,4 years - 7 years,16.140052818310362
+30,business,2,car or other,0,0,2,paid,0,28,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,1 year - 4 years,15.255582624764635
+18,FF&E,2,No Property,0,0,1,critical/pending loans at other banks,0,41,1,single,1,1,skilled employee / official,1,Low,0,7 years and up,15.66569615566094
+12,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,23,1,married/widowed,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.075564463298582
+12,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,23,1,married/widowed,1,2,skilled employee / official,1,None,0,1 year - 4 years,13.710150042306449
+21,FF&E,4,real estate,0,0,2,existing loans paid back duly till now,0,50,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,14.622432752783064
+6,FF&E,4,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,35,1,single,1,1,management / self-employed / highly qualified employee / officer,1,Low,1,None,13.864300722133706
+6,education,2,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,50,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,1 year - 4 years,13.861439489852676
+24,None,4,No Property,1,0,2,critical/pending loans at other banks,0,27,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,1,None,15.658279948100072
+30,FF&E,4,car or other,0,0,1,paid,0,34,1,single,1,2,skilled employee / official,1,High,1,1 year - 4 years,15.067130015757565
+48,business,1,real estate,0,0,1,paid,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,1,1 year - 4 years,15.098941283624926
+12,new vehicle,3,building society savings agreement/life insurance,1,0,2,critical/pending loans at other banks,1,43,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.393044921385366
+30,electronic equipment,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,47,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.9197735181412
+24,business,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,1,single,1,3,unskilled - resident,1,Low,0,1 year - 4 years,15.23596477073087
+36,business,2,car or other,0,0,2,existing loans paid back duly till now,0,31,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.563318139663146
+60,new vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,42,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,16.154041777731788
+6,new vehicle,1,car or other,0,0,1,critical/pending loans at other banks,0,24,1,married/widowed,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.5478784516775
+21,business,4,real estate,0,0,1,delay in paying off loans in the past,1,41,1,single,1,2,unskilled - resident,1,High,1,0 year - 1 year,14.7632999568978
+30,electronic equipment,4,car or other,0,0,1,critical/pending loans at other banks,0,26,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.326232497459216
+24,FF&E,4,car or other,0,0,1,critical/pending loans at other banks,0,33,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,15.45450727263992
+72,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,1,24,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.537383899728162
+24,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,64,1,single,0,4,unskilled - resident,1,Low,1,7 years and up,14.684290307167377
+18,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.18914094255242
+6,education,1,No Property,0,0,1,existing loans paid back duly till now,0,56,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,0 year - 1 year,14.245993429047726
+12,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,0,37,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,14.63924730822782
+15,electronic equipment,4,real estate,0,0,2,delay in paying off loans in the past,0,33,1,married/widowed,1,3,skilled employee / official,1,Low,1,1 year - 4 years,14.206200380490284
+24,electronic equipment,3,No Property,0,0,3,critical/pending loans at other banks,0,47,1,married/widowed,0,3,skilled employee / official,1,Low,0,0 year - 1 year,15.445339160046109
+36,business,1,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,31,1,single,1,3,unskilled - resident,1,Low,0,4 years - 7 years,16.103692420647576
+60,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,34,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,15.691457977617354
+10,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,1,single,1,2,skilled employee / official,1,None,0,4 years - 7 years,14.1133904553925
+36,new vehicle,4,No Property,0,0,1,delay in paying off loans in the past,0,30,1,single,0,3,skilled employee / official,1,Low,0,7 years and up,14.867031239098534
+9,electronic equipment,3,car or other,1,0,1,existing loans paid back duly till now,0,35,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.828201784124744
+12,new vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,31,1,single,1,3,skilled employee / official,1,High,0,1 year - 4 years,15.110511660637776
+15,FF&E,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,25,1,divorced/separated/married,1,3,skilled employee / official,1,Low,0,1 year - 4 years,13.790192749979983
+15,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.78287456002243
+24,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,29,1,single,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.878841032487744
+6,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,44,1,single,1,3,unskilled - resident,1,None,0,0 year - 1 year,15.3664715406394
+24,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,28,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.641438849758035
+6,used vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,50,1,single,0,4,skilled employee / official,1,High,0,1 year - 4 years,14.027390916999773
+12,electronic equipment,4,real estate,0,1,2,existing loans paid back duly till now,0,29,1,single,1,3,skilled employee / official,0,Low,0,4 years - 7 years,13.91354429823564
+12,new vehicle,1,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,38,0,divorced/separated/married,1,2,unemployed / unskilled - non-resident,1,Low,0,None,13.738629513628316
+18,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,24,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.403297222866392
+15,education,4,car or other,0,0,1,existing loans paid back duly till now,0,40,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.45999256654294
+12,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,1,29,0,divorced/separated/married,0,4,unskilled - resident,1,High,0,1 year - 4 years,13.93151423372058
+48,used vehicle,4,No Property,0,0,2,critical/pending loans at other banks,1,46,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.660968759526265
+24,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,0,47,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,7 years and up,14.135417777710792
+30,business,4,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,41,1,single,1,2,skilled employee / official,1,Low,1,7 years and up,14.73300057041391
+27,business,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,32,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,14.742939034248884
+15,new vehicle,1,No Property,0,0,1,existing loans paid back duly till now,0,35,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,7 years and up,15.48773545849714
+48,new vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,24,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.696501160920272
+12,FF&E,4,building society savings agreement/life insurance,0,0,2,paid,1,25,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,0 year - 1 year,14.903735753745895
+9,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,14.002819656269269
+9,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,37,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.56598280514349
+18,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,32,1,single,1,3,management / self-employed / highly qualified employee / officer,1,High,1,7 years and up,13.351886535682578
+6,education,4,No Property,0,0,1,paid,1,35,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,7 years and up,13.996164057657532
+21,used vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,46,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,14.722154912786625
+9,electronic equipment,4,real estate,0,0,2,critical/pending loans at other banks,0,25,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,13.944782893668414
+60,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,27,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,16.45649460170181
+30,used vehicle,1,car or other,0,0,2,critical/pending loans at other banks,0,63,1,single,1,4,skilled employee / official,1,None,0,7 years and up,15.843132350914312
+30,electronic equipment,3,car or other,0,0,2,critical/pending loans at other banks,0,40,1,single,1,2,skilled employee / official,1,None,0,7 years and up,14.93946565430418
+18,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,0,32,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,14.224303456165114
+24,electronic equipment,3,car or other,0,0,2,critical/pending loans at other banks,0,31,1,single,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.96227788851943
+20,used vehicle,3,car or other,0,0,2,paid,0,31,1,married/widowed,1,4,skilled employee / official,1,Low,1,7 years and up,15.631637383640625
+9,electronic equipment,4,car or other,0,0,2,paid,1,34,1,single,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.10593885608408
+6,education,4,building society savings agreement/life insurance,0,0,1,paid,1,24,0,divorced/separated/married,0,2,skilled employee / official,1,High,1,0 year - 1 year,12.978493006984626
+12,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,1,24,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.020897387689224
+9,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,66,0,divorced/separated/married,1,3,unskilled - resident,1,High,0,1 year - 4 years,13.579788224443204
+27,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,1,21,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,1 year - 4 years,14.759416456871405
+6,new vehicle,2,real estate,0,0,2,critical/pending loans at other banks,0,41,0,divorced/separated/married,1,2,unskilled - resident,1,High,1,1 year - 4 years,12.429216196844385
+15,electronic equipment,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,47,1,married/widowed,1,2,unskilled - resident,1,High,0,1 year - 4 years,14.0901073908674
+18,electronic equipment,4,car or other,0,0,2,existing loans paid back duly till now,1,25,0,divorced/separated/married,0,4,skilled employee / official,1,Low,1,1 year - 4 years,14.44784559912746
+48,business,4,No Property,0,0,1,paid,1,59,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,7 years and up,15.674305428528488
+24,business,2,real estate,0,0,2,critical/pending loans at other banks,0,36,1,divorced/separated/married,1,4,skilled employee / official,1,High,0,1 year - 4 years,14.058456736574664
+24,electronic equipment,1,car or other,0,0,1,delay in paying off loans in the past,0,33,1,single,1,2,skilled employee / official,1,Low,0,0 year - 1 year,15.67227718850094
+24,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,1,21,1,single,0,4,unskilled - resident,1,Low,0,1 year - 4 years,14.502136521533954
+8,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,44,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,4 years - 7 years,13.541073712262516
+24,used vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,1 year - 4 years,14.772175183976705
+4,new vehicle,1,real estate,0,0,1,critical/pending loans at other banks,0,37,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,4 years - 7 years,15.033386267459202
+36,FF&E,3,No Property,0,0,1,paid,0,29,0,divorced/separated/married,1,2,unemployed / unskilled - non-resident,1,None,1,0 year - 1 year,15.199301788866046
+24,used vehicle,1,car or other,0,0,2,existing loans paid back duly till now,1,23,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,16.263061421208505
+18,new vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,35,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,15.292559282352627
+6,new vehicle,1,No Property,0,0,2,critical/pending loans at other banks,0,45,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.726681366072816
+30,business,4,car or other,0,0,2,paid,1,26,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,1 year - 4 years,15.26946356755798
+24,new vehicle,2,car or other,0,0,1,paid,0,32,1,single,1,3,skilled employee / official,1,Low,1,4 years - 7 years,14.659230597003594
+10,electronic equipment,4,real estate,0,0,1,paid,0,23,1,single,1,4,unskilled - resident,1,Low,1,1 year - 4 years,13.862394143863124
+21,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,41,1,single,1,3,skilled employee / official,1,None,0,7 years and up,14.966082585563097
+24,FF&E,4,real estate,0,0,1,paid,0,22,1,single,1,4,skilled employee / official,1,High,1,1 year - 4 years,14.724978064490305
+39,FF&E,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,30,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,4 years - 7 years,16.467272554719695
+13,business,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,28,1,single,1,1,unskilled - resident,1,Low,1,0 year - 1 year,14.401629165765696
+15,new vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,None,14.736191638139722
+12,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,1,37,0,divorced/separated/married,1,1,unskilled - resident,1,Low,0,0 year - 1 year,14.057672115114244
+21,used vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,26,1,single,1,3,skilled employee / official,1,None,0,1 year - 4 years,15.473357609606062
+15,used vehicle,2,car or other,0,0,1,existing loans paid back duly till now,0,33,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,14.923743090009374
+6,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,49,0,divorced/separated/married,1,1,skilled employee / official,1,Low,1,7 years and up,12.966878474563934
+18,new vehicle,1,car or other,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,0 year - 1 year,13.791217865395229
+12,business,2,real estate,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,4 years - 7 years,13.642346938955086
+30,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,25,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.568355933693104
+12,FF&E,4,No Property,0,0,2,delay in paying off loans in the past,1,55,1,single,0,4,skilled employee / official,1,High,0,7 years and up,14.256986103595471
+24,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,32,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,4 years - 7 years,14.066269276311456
+6,new vehicle,1,real estate,0,0,3,critical/pending loans at other banks,0,74,1,single,1,1,unemployed / unskilled - non-resident,0,Low,0,1 year - 4 years,14.077105295652736
+15,electronic equipment,3,No Property,0,0,2,critical/pending loans at other banks,1,39,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,14.055314550171593
+24,new vehicle,2,real estate,0,1,1,existing loans paid back duly till now,0,31,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.146970252761944
+12,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,35,1,single,1,3,skilled employee / official,1,Low,0,7 years and up,13.445895102749809
+15,new vehicle,1,car or other,0,0,1,critical/pending loans at other banks,0,59,0,divorced/separated/married,1,4,skilled employee / official,1,None,0,7 years and up,15.433908211769849
+18,FF&E,4,real estate,0,0,2,critical/pending loans at other banks,1,24,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.568811661343966
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,24,1,single,1,3,unskilled - resident,1,Low,0,1 year - 4 years,14.610311392250718
+21,new vehicle,4,No Property,0,0,1,critical/pending loans at other banks,1,30,1,single,0,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,16.355536506973355
+24,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,1,married/widowed,1,3,skilled employee / official,1,Low,0,4 years - 7 years,14.716890677102676
+12,electronic equipment,3,real estate,0,1,2,existing loans paid back duly till now,0,40,1,married/widowed,1,3,unskilled - resident,1,Low,1,7 years and up,13.959610901938031
+30,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,31,1,divorced/separated/married,1,4,unskilled - resident,1,Low,0,0 year - 1 year,14.949489990469676
+10,used vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,31,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,0 year - 1 year,14.880566063103542
+12,FF&E,1,car or other,0,0,3,critical/pending loans at other banks,0,28,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.101155510934236
+12,electronic equipment,2,real estate,0,0,2,critical/pending loans at other banks,0,63,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,14.3193115667933
+24,used vehicle,2,real estate,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,7 years and up,14.849406531912692
+36,education,3,No Property,0,0,2,critical/pending loans at other banks,1,25,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.903044269541446
+21,used vehicle,1,car or other,0,0,1,critical/pending loans at other banks,0,36,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.001828427051487
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,52,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,14.614368192946332
+12,new vehicle,2,No Property,0,0,3,critical/pending loans at other banks,0,66,1,single,0,4,unemployed / unskilled - non-resident,1,High,1,None,14.207552645740298
+24,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,1,25,0,divorced/separated/married,0,4,skilled employee / official,1,None,0,1 year - 4 years,14.131050958544453
+36,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,37,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,15.07822385731281
+18,electronic equipment,4,real estate,0,1,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,1,1,skilled employee / official,1,Low,0,4 years - 7 years,15.070841654565353
+36,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,38,1,single,1,2,management / self-employed / highly qualified employee / officer,1,High,0,7 years and up,15.557904697647
+18,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,67,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,None,15.169281727378603
+39,electronic equipment,2,real estate,0,1,2,critical/pending loans at other banks,1,25,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.411457880215876
+24,new vehicle,4,real estate,0,0,1,critical/pending loans at other banks,0,60,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.47819853103951
+12,education,2,real estate,0,0,1,paid,0,31,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.15910026235435
+12,new vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,1,2,unskilled - resident,1,Low,1,0 year - 1 year,13.63638389206684
+20,used vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,60,1,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,1,None,0,None,15.682377499679134
+18,business,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,35,1,single,1,2,unskilled - resident,1,High,0,1 year - 4 years,14.478713862151148
+22,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,40,1,single,1,4,skilled employee / official,1,High,0,7 years and up,14.799459938312244
+48,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,38,1,single,1,3,skilled employee / official,1,None,0,7 years and up,14.827475039906712
+48,education,4,No Property,0,0,1,delay in paying off loans in the past,1,50,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.643923344840363
+40,education,4,No Property,0,0,1,critical/pending loans at other banks,1,27,1,single,1,3,skilled employee / official,1,Low,1,1 year - 4 years,15.606936638291092
+21,business,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,39,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,13.987781778904727
+24,used vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,41,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,7 years and up,15.658121557349762
+6,FF&E,1,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,27,1,married/widowed,1,2,skilled employee / official,1,None,0,1 year - 4 years,14.015180753092842
+24,FF&E,3,No Property,0,0,1,existing loans paid back duly till now,0,51,1,divorced/separated/married,0,4,skilled employee / official,1,Low,0,7 years and up,14.877458862260792
+24,FF&E,4,No Property,0,0,1,existing loans paid back duly till now,0,32,1,single,0,3,skilled employee / official,1,High,0,7 years and up,14.934578855199764
+9,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,22,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,14.648854369017505
+18,used vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,51,1,single,0,4,skilled employee / official,1,None,0,7 years and up,15.831879170668149
+12,FF&E,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,22,0,divorced/separated/married,0,4,unskilled - resident,1,Low,0,0 year - 1 year,14.045033716242523
+24,new vehicle,4,car or other,0,0,2,delay in paying off loans in the past,0,54,1,married/widowed,1,4,skilled employee / official,1,None,0,7 years and up,13.482831119581755
+9,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,35,1,single,1,2,unemployed / unskilled - non-resident,1,None,0,0 year - 1 year,14.253120119399004
+24,education,4,No Property,0,0,2,critical/pending loans at other banks,0,54,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,14.28363742719715
+18,electronic equipment,3,real estate,0,1,2,critical/pending loans at other banks,0,48,0,divorced/separated/married,0,4,unskilled - resident,1,Low,1,7 years and up,14.400515579904516
+20,FF&E,1,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,24,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,7 years and up,15.267592659622167
+12,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,35,1,single,1,4,skilled employee / official,1,None,0,7 years and up,13.791217865395229
+12,new vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,0,2,unemployed / unskilled - non-resident,1,None,0,None,15.826673258890816
+36,new vehicle,2,car or other,0,0,1,existing loans paid back duly till now,1,24,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,16.04240180658912
+6,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,26,1,married/widowed,1,3,unskilled - resident,0,Low,0,0 year - 1 year,13.287877815881902
+12,electronic equipment,4,real estate,0,0,4,critical/pending loans at other banks,0,65,1,single,1,4,skilled employee / official,1,None,0,7 years and up,13.742939865129438
+42,used vehicle,1,No Property,0,0,1,paid,0,55,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,1,None,16.04369532838207
+15,new vehicle,2,real estate,0,0,2,paid,1,26,0,divorced/separated/married,0,1,unemployed / unskilled - non-resident,1,Low,0,0 year - 1 year,14.390999695055989
+8,business,3,real estate,0,0,1,existing loans paid back duly till now,0,26,1,married/widowed,1,2,skilled employee / official,1,Low,0,0 year - 1 year,13.717897729097274
+6,electronic equipment,3,real estate,0,1,1,existing loans paid back duly till now,0,28,1,married/widowed,1,3,unskilled - resident,1,Low,1,4 years - 7 years,13.089840185698767
+36,used vehicle,4,car or other,0,0,2,critical/pending loans at other banks,1,24,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,16.08028993622242
+48,FF&E,3,car or other,0,0,1,existing loans paid back duly till now,1,54,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.930979963698809
+48,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,1,46,1,single,0,4,skilled employee / official,1,Low,0,4 years - 7 years,15.184404404403995
+36,new vehicle,2,building society savings agreement/life insurance,0,0,1,delay in paying off loans in the past,0,54,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,1 year - 4 years,15.821305559475812
+6,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,62,1,divorced/separated/married,1,4,skilled employee / official,1,High,0,1 year - 4 years,14.10668651967031
+6,electronic equipment,1,car or other,0,0,2,critical/pending loans at other banks,0,24,0,divorced/separated/married,0,2,skilled employee / official,1,Low,0,4 years - 7 years,14.25634280990973
+36,None,2,car or other,1,0,1,existing loans paid back duly till now,0,43,1,divorced/separated/married,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,None,16.579121601171703
+18,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,1,26,1,married/widowed,1,3,skilled employee / official,1,Low,1,1 year - 4 years,14.111904571018076
+12,new vehicle,3,real estate,0,0,2,existing loans paid back duly till now,0,27,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,13.911729415704816
+12,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,24,1,married/widowed,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.919442008109984
+36,FF&E,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,41,1,single,1,2,skilled employee / official,1,Low,1,7 years and up,14.813196928042425
+8,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,47,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,13.502168738731916
+18,FF&E,3,car or other,0,0,2,critical/pending loans at other banks,0,35,1,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,15.14523456759577
+21,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,30,1,married/widowed,1,3,skilled employee / official,1,Low,0,7 years and up,14.286763406610442
+18,new vehicle,1,real estate,0,0,3,critical/pending loans at other banks,1,33,0,divorced/separated/married,0,4,skilled employee / official,1,Low,1,7 years and up,15.193268588061878
+18,business,2,car or other,0,0,2,paid,1,36,1,single,1,2,skilled employee / official,1,Low,1,1 year - 4 years,15.24222683358308
+36,used vehicle,3,No Property,0,0,1,existing loans paid back duly till now,1,47,1,single,0,4,skilled employee / official,1,None,0,7 years and up,15.935974074167031
+48,business,4,No Property,0,0,1,delay in paying off loans in the past,0,38,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,15.714778234907614
+24,business,4,car or other,0,0,2,delay in paying off loans in the past,0,44,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,14.68050799545088
+18,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,0 year - 1 year,14.01107734150825
+45,business,2,car or other,0,0,2,paid,1,29,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,16.284965103193354
+24,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,42,0,divorced/separated/married,1,4,skilled employee / official,1,None,0,7 years and up,15.441608911291482
+15,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,1,25,0,divorced/separated/married,1,3,unskilled - resident,1,Low,0,0 year - 1 year,14.660090442284428
+12,new vehicle,4,car or other,0,0,2,paid,1,48,1,single,1,4,skilled employee / official,1,Low,1,1 year - 4 years,13.894321738388564
+12,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,21,0,divorced/separated/married,1,2,skilled employee / official,1,None,0,1 year - 4 years,13.694472229587218
+4,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,0,3,unskilled - resident,1,Low,0,0 year - 1 year,13.306350213517344
+24,used vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,63,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.899685798834614
+24,electronic equipment,4,real estate,1,0,2,critical/pending loans at other banks,0,46,1,married/widowed,1,3,skilled employee / official,1,Low,0,7 years and up,14.775243847681264
+36,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,29,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.460122545406028
+21,used vehicle,3,real estate,0,0,2,delay in paying off loans in the past,0,28,1,single,1,2,unskilled - resident,1,Low,1,1 year - 4 years,14.911786786834837
+18,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,1,23,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.479743728359578
+24,business,4,car or other,0,0,1,paid,0,50,1,single,1,4,skilled employee / official,1,Low,1,4 years - 7 years,14.259555148039912
+18,FF&E,4,building society savings agreement/life insurance,0,0,3,existing loans paid back duly till now,0,47,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,15.045735733434276
+21,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,35,1,single,1,3,skilled employee / official,1,None,0,4 years - 7 years,15.1957868467586
+18,new vehicle,2,car or other,0,0,2,existing loans paid back duly till now,1,68,1,single,0,4,skilled employee / official,1,None,0,1 year - 4 years,15.726681366072816
+24,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,28,1,married/widowed,1,2,skilled employee / official,1,Low,0,0 year - 1 year,14.037853789107714
+9,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,0,59,1,single,1,4,skilled employee / official,1,Low,0,4 years - 7 years,14.125932117385544
+12,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,1,57,1,single,1,4,unskilled - resident,1,Low,1,7 years and up,13.471610805514263
+20,new vehicle,4,building society savings agreement/life insurance,0,1,2,critical/pending loans at other banks,1,33,1,married/widowed,0,2,skilled employee / official,0,Low,1,1 year - 4 years,14.619751786029806
+24,used vehicle,3,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,43,1,single,1,4,skilled employee / official,1,None,0,4 years - 7 years,15.212250176945703
+15,electronic equipment,4,No Property,0,0,2,critical/pending loans at other banks,0,35,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.201452999583577
+18,new vehicle,4,No Property,0,0,2,paid,1,32,1,single,0,4,unskilled - resident,1,Low,0,4 years - 7 years,14.181541596827032
+36,new vehicle,2,car or other,0,0,2,delay in paying off loans in the past,0,45,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,16.20197713493902
+24,new vehicle,4,real estate,0,0,1,existing loans paid back duly till now,0,33,1,married/widowed,1,3,skilled employee / official,1,Low,0,0 year - 1 year,14.20349035173142
+10,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,40,0,divorced/separated/married,1,3,skilled employee / official,1,None,0,4 years - 7 years,13.703461054155651
+15,FF&E,4,No Property,0,0,1,critical/pending loans at other banks,0,28,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,15.022379165402237
+15,new vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,29,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.191502026088267
+9,new vehicle,1,real estate,0,1,1,existing loans paid back duly till now,0,26,1,single,0,2,skilled employee / official,0,Low,0,1 year - 4 years,15.090035018241156
+24,used vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,27,1,single,1,2,skilled employee / official,1,High,0,1 year - 4 years,15.574057892986216
+18,business,4,car or other,0,0,1,delay in paying off loans in the past,1,28,1,married/widowed,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.589776789809012
+24,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,1,35,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,14.707098677198058
+27,FF&E,4,real estate,0,0,2,critical/pending loans at other banks,0,32,1,single,1,2,unskilled - resident,1,High,1,0 year - 1 year,15.32534910517562
+10,FF&E,2,real estate,0,0,1,existing loans paid back duly till now,1,25,1,single,0,2,unskilled - resident,1,Low,1,1 year - 4 years,14.608503073493935
+15,FF&E,2,car or other,0,0,1,existing loans paid back duly till now,0,20,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,1 year - 4 years,14.613468102876563
+18,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,27,0,divorced/separated/married,1,1,skilled employee / official,1,Low,1,0 year - 1 year,14.686385426307949
+12,FF&E,2,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,42,1,single,1,4,skilled employee / official,1,Low,1,7 years and up,15.018783117175817
+36,business,3,building society savings agreement/life insurance,0,0,2,existing loans paid back duly till now,0,37,1,single,1,2,skilled employee / official,1,None,0,7 years and up,15.818206035398791
+12,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,7 years and up,13.38779984090879
+36,FF&E,2,car or other,0,0,2,delay in paying off loans in the past,0,40,0,divorced/separated/married,1,4,skilled employee / official,1,High,0,4 years - 7 years,15.85386965454288
+6,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,46,1,single,1,4,skilled employee / official,0,Low,0,7 years and up,14.110416475505374
+24,business,4,real estate,0,0,2,critical/pending loans at other banks,0,26,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.139042283309752
+15,FF&E,4,real estate,0,0,1,existing loans paid back duly till now,0,24,0,divorced/separated/married,1,1,skilled employee / official,1,None,0,0 year - 1 year,13.680835654637672
+12,FF&E,2,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,0,29,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,15.09366276046446
+11,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,40,0,divorced/separated/married,1,4,skilled employee / official,1,High,0,1 year - 4 years,14.094656299393767
+18,electronic equipment,3,No Property,1,0,1,paid,0,36,1,single,0,4,management / self-employed / highly qualified employee / officer,1,Low,1,0 year - 1 year,14.47819853103951
+36,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,28,1,single,1,2,skilled employee / official,1,Low,0,7 years and up,15.095054549137284
+9,new vehicle,3,No Property,0,0,1,existing loans paid back duly till now,1,27,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.167574889345325
+30,electronic equipment,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,36,1,single,1,3,skilled employee / official,1,None,0,4 years - 7 years,15.723867174776142
+24,used vehicle,3,car or other,0,0,1,existing loans paid back duly till now,0,38,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,4 years - 7 years,15.871427554597153
+24,used vehicle,2,No Property,0,0,1,existing loans paid back duly till now,0,48,1,divorced/separated/married,0,4,skilled employee / official,1,None,0,1 year - 4 years,16.04304877663541
+30,new vehicle,4,real estate,0,0,2,critical/pending loans at other banks,0,36,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.595294045183769
+18,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,65,0,divorced/separated/married,1,4,unemployed / unskilled - non-resident,1,Low,0,None,13.909000901051613
+24,FF&E,3,car or other,0,0,1,existing loans paid back duly till now,1,43,1,divorced/separated/married,1,3,skilled employee / official,1,Low,0,4 years - 7 years,15.215954342188583
+12,education,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,53,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,0 year - 1 year,13.58609739363647
+24,business,4,No Property,0,0,2,critical/pending loans at other banks,0,34,1,single,1,3,skilled employee / official,1,None,0,4 years - 7 years,14.85401892256268
+48,business,2,car or other,0,0,1,existing loans paid back duly till now,1,23,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,16.567386238606513
+36,new vehicle,4,car or other,0,0,2,critical/pending loans at other banks,0,34,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.704699172523876
+28,used vehicle,3,real estate,0,1,2,paid,0,40,1,single,0,4,skilled employee / official,1,None,1,0 year - 1 year,15.87270649069679
+27,business,4,car or other,0,0,4,critical/pending loans at other banks,0,43,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,14.708327933652788
+15,electronic equipment,4,car or other,0,0,2,critical/pending loans at other banks,0,46,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,14.419279927373005
+12,new vehicle,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,38,1,single,1,4,unskilled - resident,0,Low,1,1 year - 4 years,14.59069844886043
+36,used vehicle,3,car or other,0,0,2,critical/pending loans at other banks,0,34,1,single,1,4,skilled employee / official,1,Low,0,1 year - 4 years,15.573368475516649
+18,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,29,1,single,1,3,skilled employee / official,1,None,0,1 year - 4 years,13.971659240454205
+36,used vehicle,3,car or other,0,0,1,delay in paying off loans in the past,0,31,1,single,1,2,management / self-employed / highly qualified employee / officer,1,None,1,4 years - 7 years,16.00682883852973
+21,electronic equipment,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.773327036666927
+12,FF&E,3,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,35,0,divorced/separated/married,1,2,skilled employee / official,0,High,0,4 years - 7 years,14.280501645386463
+15,FF&E,1,real estate,0,0,1,existing loans paid back duly till now,0,33,0,divorced/separated/married,0,4,unskilled - resident,1,None,1,4 years - 7 years,14.59758394771862
+18,FF&E,2,car or other,1,0,1,existing loans paid back duly till now,1,42,1,single,1,3,skilled employee / official,1,Low,0,1 year - 4 years,15.239341522612891
+16,new vehicle,2,building society savings agreement/life insurance,0,1,1,critical/pending loans at other banks,1,43,1,single,0,4,skilled employee / official,1,Low,1,7 years and up,14.780591454007862
+20,new vehicle,2,real estate,0,0,2,critical/pending loans at other banks,0,44,1,divorced/separated/married,1,4,skilled employee / official,1,None,0,0 year - 1 year,15.06397860217676
+36,used vehicle,2,No Property,0,0,2,critical/pending loans at other banks,0,42,1,single,0,4,skilled employee / official,1,None,0,7 years and up,16.1646929363351
+15,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,40,1,married/widowed,0,2,skilled employee / official,1,None,0,1 year - 4 years,14.141932458731986
+24,electronic equipment,4,real estate,0,0,1,existing loans paid back duly till now,0,36,1,single,1,1,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,14.060806913919617
+12,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,20,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,13.917164211690777
+21,new vehicle,2,real estate,1,0,1,existing loans paid back duly till now,0,24,1,single,1,2,unskilled - resident,0,None,0,4 years - 7 years,15.140727069575574
+36,education,2,car or other,0,0,1,existing loans paid back duly till now,0,27,1,married/widowed,1,2,skilled employee / official,1,None,0,1 year - 4 years,15.126811940042735
+15,used vehicle,1,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,46,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,0 year - 1 year,15.09477634632564
+9,new vehicle,1,real estate,0,0,1,existing loans paid back duly till now,0,33,0,divorced/separated/married,1,2,unskilled - resident,1,None,0,1 year - 4 years,14.977097645793773
+36,electronic equipment,4,real estate,0,0,2,delay in paying off loans in the past,0,34,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,15.30931312679945
+24,FF&E,2,car or other,0,0,1,critical/pending loans at other banks,1,25,0,divorced/separated/married,1,4,unskilled - resident,1,Low,1,0 year - 1 year,15.370703455545978
+30,electronic equipment,2,car or other,0,0,1,existing loans paid back duly till now,0,25,0,divorced/separated/married,1,4,skilled employee / official,1,None,0,7 years and up,14.911118337612086
+11,business,1,real estate,0,0,1,existing loans paid back duly till now,0,28,1,divorced/separated/married,1,2,skilled employee / official,1,High,0,7 years and up,14.577250529989833
+24,business,4,building society savings agreement/life insurance,0,0,1,paid,1,31,1,single,0,2,skilled employee / official,1,Low,0,1 year - 4 years,14.966398991197757
+48,None,1,building society savings agreement/life insurance,0,0,1,paid,1,32,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,0,Low,1,1 year - 4 years,16.729164720482657
+10,used vehicle,1,real estate,1,0,1,existing loans paid back duly till now,0,32,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.862127551514003
+6,new vehicle,1,No Property,0,0,1,existing loans paid back duly till now,1,68,1,single,1,4,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,16.516603278498984
+24,FF&E,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,33,1,divorced/separated/married,1,1,skilled employee / official,1,Low,0,None,14.673748358389812
+24,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,39,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,7 years and up,15.022977251544466
+18,FF&E,4,No Property,0,0,2,critical/pending loans at other banks,0,28,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.412697347378309
+48,electronic equipment,4,car or other,0,0,1,delay in paying off loans in the past,0,37,1,single,1,1,management / self-employed / highly qualified employee / officer,1,High,0,4 years - 7 years,16.360963395120258
+9,electronic equipment,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,22,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,14.127397319112871
+12,new vehicle,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,30,1,single,0,4,skilled employee / official,1,Low,0,4 years - 7 years,14.509657238857304
+24,FF&E,2,building society savings agreement/life insurance,0,0,1,paid,1,55,1,divorced/separated/married,1,1,skilled employee / official,1,Low,1,0 year - 1 year,15.742965742646229
+12,new vehicle,4,car or other,0,0,2,paid,1,46,1,single,1,2,skilled employee / official,1,Low,1,0 year - 1 year,13.45454068974266
+18,FF&E,4,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,0,21,0,divorced/separated/married,0,4,skilled employee / official,1,Low,0,0 year - 1 year,13.863347887378437
+48,used vehicle,4,No Property,0,0,3,existing loans paid back duly till now,1,39,1,single,0,4,skilled employee / official,1,Low,1,4 years - 7 years,16.147363148638888
+30,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,58,1,single,1,4,skilled employee / official,1,None,0,7 years and up,14.43984342252386
+12,new vehicle,4,real estate,0,0,2,delay in paying off loans in the past,0,43,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,14.111160800065232
+24,FF&E,4,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,0,24,1,single,1,1,unskilled - resident,0,Low,0,0 year - 1 year,14.373410589116194
+9,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,1,22,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,0 year - 1 year,14.328334184392938
+9,new vehicle,3,real estate,0,0,2,critical/pending loans at other banks,0,30,1,single,1,1,skilled employee / official,1,Low,0,1 year - 4 years,14.017634742054408
+12,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,42,1,single,1,4,skilled employee / official,1,High,0,7 years and up,13.165422866864777
+12,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,23,0,divorced/separated/married,1,1,skilled employee / official,1,Low,1,1 year - 4 years,14.219641443059302
+30,electronic equipment,4,No Property,0,0,2,delay in paying off loans in the past,1,30,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,1,0 year - 1 year,14.467314774989838
+9,electronic equipment,3,real estate,0,0,1,existing loans paid back duly till now,1,28,0,divorced/separated/married,1,2,unskilled - resident,1,Low,0,1 year - 4 years,13.521139497361697
+6,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,30,1,married/widowed,0,3,management / self-employed / highly qualified employee / officer,1,Low,0,0 year - 1 year,14.539671792053388
+60,education,4,No Property,0,0,1,existing loans paid back duly till now,1,42,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,15.65415361309118
+24,used vehicle,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,46,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,1 year - 4 years,15.738590644519688
+12,new vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,45,1,single,1,3,management / self-employed / highly qualified employee / officer,1,None,0,0 year - 1 year,15.07595820921819
+10,new vehicle,3,real estate,0,0,1,existing loans paid back duly till now,0,31,1,single,1,2,unskilled - resident,0,Low,0,1 year - 4 years,14.251181508129504
+24,FF&E,4,car or other,0,0,1,existing loans paid back duly till now,0,31,1,single,1,2,skilled employee / official,1,None,1,4 years - 7 years,13.741864017795976
+4,new vehicle,2,real estate,0,0,3,critical/pending loans at other banks,0,42,1,single,1,1,unskilled - resident,1,Low,0,4 years - 7 years,14.19051645858773
+15,FF&E,4,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,46,0,divorced/separated/married,0,1,skilled employee / official,1,Low,0,0 year - 1 year,14.427989835456764
+48,new vehicle,1,car or other,0,0,2,paid,0,30,0,divorced/separated/married,1,1,skilled employee / official,1,High,0,0 year - 1 year,15.938729721989995
+24,FF&E,4,No Property,0,0,1,paid,1,30,1,single,0,4,skilled employee / official,1,High,0,0 year - 1 year,15.02417235177634
+12,new vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,38,1,single,1,4,management / self-employed / highly qualified employee / officer,1,None,0,None,14.865982471304449
+18,FF&E,4,building society savings agreement/life insurance,1,0,1,existing loans paid back duly till now,1,43,1,married/widowed,1,1,unskilled - resident,1,Low,0,0 year - 1 year,14.24273715785395
+24,electronic equipment,2,car or other,0,0,2,existing loans paid back duly till now,1,31,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,15.102260788747778
+18,business,3,car or other,0,0,3,critical/pending loans at other banks,0,40,1,married/widowed,1,3,unemployed / unskilled - non-resident,1,Low,0,None,15.09366276046446
+36,business,2,car or other,0,0,2,delay in paying off loans in the past,1,24,1,single,1,1,skilled employee / official,1,Low,0,4 years - 7 years,14.578650110344254
+24,used vehicle,3,car or other,0,0,1,existing loans paid back duly till now,1,28,0,divorced/separated/married,0,4,skilled employee / official,1,High,0,0 year - 1 year,15.229663247212562
+36,FF&E,4,car or other,0,0,2,existing loans paid back duly till now,1,26,0,divorced/separated/married,1,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,16.21103939660106
+12,new vehicle,4,building society savings agreement/life insurance,0,1,1,existing loans paid back duly till now,0,29,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.45367343019146
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,57,0,divorced/separated/married,0,4,management / self-employed / highly qualified employee / officer,1,High,0,7 years and up,14.02333740516659
+30,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,49,1,single,1,4,unskilled - resident,1,None,1,7 years and up,15.111880211556178
+9,electronic equipment,2,real estate,0,0,3,critical/pending loans at other banks,0,37,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,13.95874472605018
+28,new vehicle,3,car or other,0,0,1,existing loans paid back duly till now,1,45,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,15.2033037952079
+24,FF&E,4,No Property,0,0,1,existing loans paid back duly till now,0,30,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,14.936862333601873
+6,electronic equipment,2,real estate,0,0,2,critical/pending loans at other banks,0,30,1,married/widowed,0,2,skilled employee / official,1,Low,0,7 years and up,14.369395671190713
+21,new vehicle,1,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,47,1,divorced/separated/married,1,4,skilled employee / official,1,Low,0,1 year - 4 years,14.6712016677095
+15,new vehicle,3,No Property,0,0,1,existing loans paid back duly till now,0,29,1,single,1,2,skilled employee / official,1,None,0,1 year - 4 years,15.084146875615932
+24,electronic equipment,3,car or other,0,0,2,existing loans paid back duly till now,1,35,1,single,1,2,skilled employee / official,1,High,1,7 years and up,14.68972851341652
+6,FF&E,3,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,22,1,married/widowed,1,1,unskilled - resident,1,Low,0,0 year - 1 year,13.025852477023484
+30,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,26,0,divorced/separated/married,1,1,skilled employee / official,1,None,0,1 year - 4 years,14.354923638582177
+27,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,1,23,1,single,1,2,unskilled - resident,1,High,0,1 year - 4 years,14.739769459487606
+15,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,54,0,divorced/separated/married,0,2,management / self-employed / highly qualified employee / officer,1,Low,1,7 years and up,15.087515772682035
+42,electronic equipment,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,29,1,married/widowed,0,4,skilled employee / official,1,None,0,4 years - 7 years,15.784858176847036
+11,new vehicle,1,real estate,0,0,2,critical/pending loans at other banks,0,40,1,single,1,2,unskilled - resident,1,Low,0,1 year - 4 years,15.186437441953045
+15,FF&E,4,real estate,0,1,1,existing loans paid back duly till now,0,22,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.23026571297953
+24,new vehicle,1,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,43,1,single,1,4,unskilled - resident,1,Low,0,1 year - 4 years,15.816044164539235
+24,new vehicle,1,No Property,1,0,2,paid,1,29,0,divorced/separated/married,0,4,unemployed / unskilled - non-resident,1,Low,0,None,13.991981701080054
+60,business,4,No Property,1,0,1,existing loans paid back duly till now,1,36,1,single,0,4,skilled employee / official,1,Low,0,7 years and up,15.802973862747756
+30,electronic equipment,4,car or other,0,0,1,critical/pending loans at other banks,0,33,0,divorced/separated/married,1,2,skilled employee / official,1,Low,0,1 year - 4 years,14.856140564094035
+24,electronic equipment,3,car or other,0,0,1,existing loans paid back duly till now,0,57,0,divorced/separated/married,1,3,unskilled - resident,1,High,0,1 year - 4 years,14.045033716242523
+6,electronic equipment,2,real estate,0,1,1,existing loans paid back duly till now,0,64,0,divorced/separated/married,1,3,skilled employee / official,1,Low,0,1 year - 4 years,13.531820506782031
+18,business,4,building society savings agreement/life insurance,0,0,2,delay in paying off loans in the past,0,42,1,single,1,2,skilled employee / official,1,None,0,7 years and up,14.70216648470874
+24,new vehicle,4,car or other,0,0,2,delay in paying off loans in the past,1,47,1,single,1,4,unskilled - resident,1,Low,0,7 years and up,14.74688692725647
+15,new vehicle,2,building society savings agreement/life insurance,0,0,1,paid,1,25,1,married/widowed,0,2,skilled employee / official,1,Low,0,1 year - 4 years,14.04979185368894
+30,FF&E,2,building society savings agreement/life insurance,0,0,1,critical/pending loans at other banks,1,49,1,single,1,2,skilled employee / official,1,Low,0,4 years - 7 years,15.942074206712846
+48,business,3,car or other,0,0,1,existing loans paid back duly till now,1,33,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,1,None,15.39325138365512
+21,new vehicle,1,car or other,0,0,1,existing loans paid back duly till now,0,28,0,divorced/separated/married,1,1,management / self-employed / highly qualified employee / officer,1,Low,1,1 year - 4 years,14.888121044093385
+36,used vehicle,2,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,1,26,1,single,1,2,skilled employee / official,1,Low,0,1 year - 4 years,15.92317505858785
+24,FF&E,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,30,1,single,1,2,unskilled - resident,1,Low,0,4 years - 7 years,14.522560643693213
+15,FF&E,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,25,0,divorced/separated/married,0,3,skilled employee / official,1,Low,0,1 year - 4 years,14.175280706810309
+42,business,2,building society savings agreement/life insurance,0,0,2,paid,0,33,1,divorced/separated/married,1,1,skilled employee / official,1,Low,0,0 year - 1 year,15.65431263352564
+13,electronic equipment,2,real estate,0,0,1,existing loans paid back duly till now,0,64,0,divorced/separated/married,1,4,skilled employee / official,1,Low,0,None,14.158390790880818
+24,used vehicle,4,No Property,0,0,1,existing loans paid back duly till now,0,29,1,single,0,2,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.699393316068136
+24,electronic equipment,4,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,48,1,single,1,2,unskilled - resident,1,Low,0,7 years and up,14.371118324502158
+12,education,2,building society savings agreement/life insurance,0,0,2,critical/pending loans at other banks,0,37,1,single,1,1,unskilled - resident,1,None,0,0 year - 1 year,15.086674611830531
+15,electronic equipment,4,car or other,0,0,1,paid,0,34,1,single,1,4,unskilled - resident,1,Low,1,7 years and up,14.26594903171517
+18,electronic equipment,2,car or other,0,0,2,existing loans paid back duly till now,0,23,1,married/widowed,0,4,unskilled - resident,1,None,0,4 years - 7 years,14.47613454681866
+36,FF&E,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,30,1,single,1,3,management / self-employed / highly qualified employee / officer,1,Low,0,None,15.191502026088267
+12,new vehicle,4,car or other,0,0,1,existing loans paid back duly till now,0,50,1,single,1,3,skilled employee / official,1,None,0,7 years and up,14.686803923907693
+12,FF&E,3,real estate,0,0,1,existing loans paid back duly till now,0,31,0,divorced/separated/married,1,4,unskilled - resident,1,Low,0,4 years - 7 years,14.367094174202432
+30,used vehicle,4,building society savings agreement/life insurance,0,0,1,existing loans paid back duly till now,0,40,1,divorced/separated/married,1,4,management / self-employed / highly qualified employee / officer,1,Low,0,1 year - 4 years,15.165400237190363
+12,electronic equipment,4,car or other,0,0,1,existing loans paid back duly till now,0,38,1,single,1,4,skilled employee / official,1,Low,0,7 years and up,13.597354548161103
+45,electronic equipment,4,No Property,0,0,1,existing loans paid back duly till now,1,23,1,single,0,4,skilled employee / official,1,Low,0,1 year - 4 years,14.427989835456764
+45,used vehicle,3,car or other,0,0,1,critical/pending loans at other banks,0,27,1,single,1,4,skilled employee / official,1,Low,0,None,15.33633581204177
